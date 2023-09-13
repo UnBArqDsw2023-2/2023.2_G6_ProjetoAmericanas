@@ -11,6 +11,7 @@
 | 19/0011424  |  Carlos Eduardo Miranda Roriz |
 | 18/0118005  |  Carlos Rafael Vasconcelos de Matos |
 | 19/0087439  |  Gabriel de Souza Fonseca Ribeiro |
+| 19/0028963  |  Guilherme Brito de Souza |
 | 17/0034941  |  Guilherme Peixoto Lima      |
 | 19/0093331  |  Matheus Costa Gomes         |
 | 19/0058587  |  Matheus Raphael Soares de Oliveira |
