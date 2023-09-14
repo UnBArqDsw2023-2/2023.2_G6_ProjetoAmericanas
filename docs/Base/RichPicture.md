@@ -43,6 +43,12 @@ Abaixo são mostradas as versões desenvolvidas.
 </div>
 <h6 align = "center">Figura 3: rich picture Matheus</h6>
 
+#### Gabriel de Souza - v0.2
+<div align="center" >
+    <img src="../Assets/base/richpicture/rich-picture-Gabriel.jpg">
+</div>
+<h6 align = "center">Figura 4: rich picture Gabriel</h6>
+
 ## Referências bibliográficas
 > MULTI-STAKEHOLDER PARTNERSHIPS. **Rich Picture**. Disponível em: <a href="https://mspguide.org/2022/03/18/rich-picture/." target="__blank">https://mspguide.org/2022/03/18/rich-picture/.</a> **Acesso em:** 12 set. 2023.
 
@@ -52,3 +58,4 @@ Abaixo são mostradas as versões desenvolvidas.
 |--------|------|------|-----------|-------|---------|
 | 1.0    | 12/09/2023 | 14/09/2023| criação do artefato Rich Picture | Alex Gabriel |Matheus Costa|
 | 1.1    | 14/09/2023 | 14/09/2023| adição de segundo Rich Picture | Matheus Costa |Gabriel Souza |
+| 1.2    | 14/09/2023 | 14/09/2023| adição de terceiro Rich Picture |Gabriel de Souza | Matheus Costa|
