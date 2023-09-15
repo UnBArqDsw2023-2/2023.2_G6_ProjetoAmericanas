@@ -1,10 +1,10 @@
 # Brainstorming
 
-## 1. Introdução
+## Introdução
 
 brainstorming ou tempestade de ideias é uma técnica que propõe criar novas formas de enxergar problemas explorando a criatividade e imaginação dos participantes. Muito utilizada com objetivo é entender melhor o contexto, trazendo mais perspectivas nas demais etapas do desenvolvimento do produto.
 
-## 2. Participantes
+## Participantes
 
 - Alex Gabriel Alves Faustino
 - Bruno Seiji Kishibe
@@ -17,7 +17,7 @@ brainstorming ou tempestade de ideias é uma técnica que propõe criar novas fo
 - Matheus Raphael Soares de Oliveira
 - Pedro Victor Lima Torreão - **Facilitador**
 
-## 3. Brainstorming
+## Brainstorming
 
 - Contato com atendente (canal de comunicação)
 
@@ -61,7 +61,7 @@ brainstorming ou tempestade de ideias é uma técnica que propõe criar novas fo
 
 - Detalhes do pedido.
 
-## 4. Histórico de Versão
+## Versionamento
 
 | Versão |     Alteração     |  Responsável  | Revisor | Data  |
 | :----: | :---------------: | :-----------: | :-----: | :---: |
