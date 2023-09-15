@@ -2,7 +2,7 @@
 
 ## 1. Introdução
 
-brainstorming ou tempestade de ideias é uma técnica que propoẽ criar novas formas de enxergar problemas explorando a criatividade e imaginação dos participantes. Muito utilizada com objetivo é entender melhor o contexto, trazendo mais perspectivas nas demais etapas do desenvolvimento do produto.
+brainstorming ou tempestade de ideias é uma técnica que propõe criar novas formas de enxergar problemas explorando a criatividade e imaginação dos participantes. Muito utilizada com objetivo é entender melhor o contexto, trazendo mais perspectivas nas demais etapas do desenvolvimento do produto.
 
 ## 2. Participantes
 
