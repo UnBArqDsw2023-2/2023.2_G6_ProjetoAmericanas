@@ -44,7 +44,7 @@ Abaixo são mostradas as versões desenvolvidas.
 
 <h6 align = "center">Figura 3: rich picture Matheus</h6>
 
-#### Gabriel de Souza - v0.2
+#### Gabriel de Souza - v0.3
 
 ![rich-picture-Gabriel](../Assets/base/richpicture/rich-picture-Gabriel.jpg)
 
@@ -56,8 +56,8 @@ Abaixo são mostradas as versões desenvolvidas.
 
 ## Versionamento
 
-| Versão | Data da realização | Data prevista revisão | Descrição                        | Autor            | Revisor       |
-| ------ | ------------------ | --------------------- | -------------------------------- | ---------------- | ------------- |
-| 1.0    | 12/09/2023         | 14/09/2023            | criação do artefato Rich Picture | Alex Gabriel     | Matheus Costa |
-| 1.1    | 14/09/2023         | 14/09/2023            | adição de segundo Rich Picture   | Matheus Costa    | Gabriel Souza |
-| 1.2    | 14/09/2023         | 14/09/2023            | adição de terceiro Rich Picture  | Gabriel de Souza | Matheus Costa |
+| Versão | Alteração |  Responsável  | Revisor | Data de realização | Data de revisão |
+| :------: | :---: | :-----: | :----: | :----: | :-----: |
+| 1.0    | criação do artefato Rich Picture | Alex Gabriel | Matheus Costa | 12/09/2023| 14/09/2023 |
+| 1.1    |adição de segundo Rich Picture | Matheus Costa | Gabriel Souza | 14/09/2023 | 14/09/2023 |
+| 1.2    | adição de terceiro Rich Picture | Gabriel Souza | Matheus Costa |  14/09/2023 | 14/09/2023 |

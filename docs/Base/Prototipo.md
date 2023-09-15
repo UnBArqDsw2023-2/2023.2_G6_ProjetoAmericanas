@@ -7,7 +7,7 @@ O Protótipo é uma técnica que serve como uma primeira versão de um produto, 
 ## Participantes
 
 - Guilherme Brito
-- Matheus Costa
+- Matheus Raphael
 
 ## Protótipo
 
@@ -21,6 +21,6 @@ O Protótipo é uma técnica que serve como uma primeira versão de um produto, 
 
 ## Versionamento
 
-| Versão |     Alteração     |  Responsável  | Revisor | Data  |
-| :----: | :---------------: | :-----------: | :-----: | :---: |
-|  1.0   | Criando documento | Guilherme Brito | Matheus Costa | 14/09 |
+| Versão |     Alteração     |  Responsável  | Revisor | Data de realização | Data de revisão 
+| :----: | :---------------: | :-----------: | :-----: | :---: | :----:
+|  1.0   | Criando documento | Guilherme Brito | Matheus Costa | 14/09 | 14/09
