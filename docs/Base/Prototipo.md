@@ -23,4 +23,4 @@ O Protótipo é uma técnica que serve como uma primeira versão de um produto, 
 
 | Versão |     Alteração     |  Responsável  | Revisor | Data  |
 | :----: | :---------------: | :-----------: | :-----: | :---: |
-|  1.0   | Criando documento | Guilherme Brito |    -    | 14/09 |
+|  1.0   | Criando documento | Guilherme Brito | Matheus Costa | 14/09 |

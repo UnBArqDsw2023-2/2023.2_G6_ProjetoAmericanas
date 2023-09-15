@@ -18,4 +18,4 @@ O Mapa Mental é uma técnica que propõe organizar pensamentos lógicos com o o
 
 | Versão |     Alteração     |  Responsável  | Revisor | Data  |
 | :----: | :---------------: | :-----------: | :-----: | :---: |
-|  1.0   | Criando documento | Carlos Rafael |    -    | 14/09 |
+|  1.0   | Criando documento | Carlos Rafael | Carlos Eduardo | 14/09 |

@@ -65,4 +65,4 @@ brainstorming ou tempestade de ideias é uma técnica que propõe criar novas fo
 
 | Versão |     Alteração     |  Responsável  | Revisor | Data  |
 | :----: | :---------------: | :-----------: | :-----: | :---: |
-|  1.0   | Criando documento | Carlos Rafael |    -    | 14/09 |
+|  1.0   | Criando documento | Carlos Rafael | Bruno Seiji | 14/09 |
