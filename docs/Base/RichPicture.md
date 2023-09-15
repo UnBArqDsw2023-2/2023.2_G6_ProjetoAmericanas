@@ -22,9 +22,8 @@ Para desenvolver o Rich Picture, será seguida uma abordagem que envolve coletar
 
 Abaixo, uma figura com os símbolos e suas respectivas descrições. Esses símbolos foram utilizados na criação dos Rich Pictures desenvolvidos pelo grupo.
 
-<div align="center" >
-    <img src="../Assets/base/richpicture/leg_richpic.png">
-</div>
+![leg_richpic](../Assets/base/richpicture/leg_richpic.png)
+
 <h6 align = "center">Figura 1: legenda do rich picture</h6>
 
 ## Rich Picture
