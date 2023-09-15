@@ -13,6 +13,7 @@
     - [Brainstorming](/Base/Brainstorming.md)
     - [Rich Picture](/Base/RichPicture.md)
     - [Mapa Mental](/Base/MapaMental.md)
+    - [Protótipo](Base/Prototipo.md)
 
 
 - **Modelagem**
