@@ -2,11 +2,11 @@
 
 ## Introdução
 
-brainstorming ou tempestade de ideias é uma técnica que propõe criar novas formas de enxergar problemas explorando a criatividade e imaginação dos participantes. Muito utilizada com objetivo é entender melhor o contexto, trazendo mais perspectivas nas demais etapas do desenvolvimento do produto.
+_Brainstorming_ (ou tempestade de ideias) é uma técnica que propõe criar novas formas de enxergar problemas, explorando a criatividade e imaginação dos participantes. Muito utilizada com objetivo de entender melhor o contexto, trazendo mais perspectivas nas demais etapas do desenvolvimento do produto.
 
 ## Metodologia
 
-Foi reúnido todos os integrantes da equipe em uma chamada online via o aplicativo Discord, onde por meio de um documento em branco no Word, fopram adicionadas todos os requisitos que os paricipanes julgaram importantes e essenciais para uma boa página de devolução de uma loja grande como a Lojas Americanas.
+Todos os integrantes da equipe se reuniram em uma chamada online via o aplicativo Discord, onde por meio de um documento em branco no Word, foram adicionadas todos os requisitos que os paricipanes julgaram importantes e essenciais para uma boa página de devolução de uma loja grande como a Lojas Americanas.
 
 ## Participantes
 
@@ -28,27 +28,27 @@ Foi reúnido todos os integrantes da equipe em uma chamada online via o aplicati
 | RB01 | A página deve contar com um canal de contato com atendente. |
 | RB02 | A página deve contar com um Histórico de compras realizadas. |
 | RB03 | A página deve contar com um Filtro de pesquisa. |
-| RB04 | Apágina deve conter a funcionalidade de Acompanhamento em tempo real do status da devolução. |
-| RB05 | A página deve conter uma opção de devolução por Coleta de produtos em domicílio. |
-| RB06 | A página deve conter a opção de Escolha entre reembolso ou troca do produto danificado. |
-| RB07 | A página deve conter a opção de recebimento de Cupom de vale desconto ou vale presente na não devolução do produto. |
-| RB08 | A página deve conter uma opção da Escolha da forma reembolso (deposito em conta, credito na loja, Pix, etc). |
-| RB09 | A página deve conter a funcionalidade de Rastrear o Produto. |
-| RB10 | A página deve conter a funcionalidade de Descrição do problema do produto (texto e arquivo de vídeo ou foto). |
-| RB11 | A página deve conter a funcionalidade de Agendar horário de coleta. |
-| RB12 | A página deve Exibir as políticas de devolução da empresa. |
-| RB13 | A página deve Exibir uma estimativa do tempo de devolução. |
-| RB14 | A página deve ter a funcionalidade de Avalição de atendimento. |
-| RB15 | A página deve conter a funcionalidade de Chat em tempo real com atendente. |
+| RB04 | A página deve conter uma funcionalidade de 'Acompanhamento em tempo real' do status da devolução. |
+| RB05 | A página deve conter uma opção de devolução por 'Coleta de produtos em domicílio'. |
+| RB06 | A página deve conter a opção de escolha entre reembolso ou troca do produto danificado. |
+| RB07 | A página deve conter a opção de recebimento de 'Cupom de vale-desconto' ou 'vale-presente' na não devolução do produto. |
+| RB08 | A página deve conter uma opção da escolha da forma reembolso (depósito em conta, crédito na loja, Pix, etc). |
+| RB09 | A página deve conter uma funcionalidade de Rastrear o Produto. |
+| RB10 | A página deve conter uma funcionalidade de Descrição do problema do produto (texto e arquivo de vídeo ou foto). |
+| RB11 | A página deve conter uma funcionalidade de Agendar horário de coleta. |
+| RB12 | A página deve exibir as políticas de devolução da empresa. |
+| RB13 | A página deve exibir uma estimativa do tempo de devolução. |
+| RB14 | A página deve ter uma funcionalidade de Avalição de atendimento. |
+| RB15 | A página deve conter uma funcionalidade de Chat em tempo real com atendente. |
 | RB16 | A página deve conter as opções de Atendimento por telefone, mensagem (e-mail, sms, chatbot, etc.) ou presencial. |
-| RB17 | A página deve ter a funcionalidade de Ver o comprovante de devolução. |
+| RB17 | A página deve ter uma funcionalidade para 'Ver o comprovante de devolução'. |
 | RB18 | A página deve conter um Checkbox de motivos de devolução. |
 | RB19 | A página deve conter um Guia de como fazer o reembolso. |
-| RB20 | A página deve exibir todos os Detalhes do pedido. |
+| RB20 | A página deve exibir todos os detalhes do pedido. |
 
 ## Versionamento
 
 | Versão |     Alteração     |  Responsável  | Revisor | Data de realização | Data de revisão
 | :----: | :---------------: | :-----------: | :-----: | :---: | :---:
 |  1.0   | Criando documento | Carlos Rafael | Bruno Seiji | 14/09 | 14/09
-|  1.1   | Atualizando Requisitos do Brainstorm em uma tabela| Pedro Torreão | | 15/09 | 15/09
+|  1.1   | Atualizando Requisitos do Brainstorm em uma tabela| Pedro Torreão | Matheus Costa | 15/09 | 15/09
