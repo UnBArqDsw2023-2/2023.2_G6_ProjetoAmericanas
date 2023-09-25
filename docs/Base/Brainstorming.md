@@ -1,16 +1,16 @@
 # Brainstorming
 
-## Introdução
+## 1. Introdução
 
 _Brainstorming_ (ou tempestade de ideias) é uma técnica que propõe criar novas formas de enxergar problemas, explorando a criatividade e imaginação dos participantes. Muito utilizada com objetivo de entender melhor o contexto, trazendo mais perspectivas nas demais etapas do desenvolvimento do produto.
 
 É uma técnica altamente eficaz para agregar informações e nos permitir enxergar diferentes perspectivas, no nosso caso, em relação ao fluxo de trocas e devoluções da empresa Lojas Americanas. 
 
-## Metodologia
+## 2. Metodologia
 
 Todos os integrantes da equipe se reuniram em uma chamada online via o aplicativo Discord, onde por meio de um documento em branco no Word, foram adicionadas todos os requisitos que os paricipanes julgaram importantes e essenciais para uma boa página de devolução de uma loja grande como a Lojas Americanas.
 
-## Participantes
+### 2.1 Participantes
 
 - Alex Gabriel Alves Faustino
 - Bruno Seiji Kishibe
@@ -23,7 +23,7 @@ Todos os integrantes da equipe se reuniram em uma chamada online via o aplicativ
 - Matheus Raphael Soares de Oliveira
 - Pedro Victor Lima Torreão - **Facilitador**
 
-## Brainstorming
+## 3. Levantamento dos requisitos
 
 | ID | Requisito |
 | ---- | ---------- |
