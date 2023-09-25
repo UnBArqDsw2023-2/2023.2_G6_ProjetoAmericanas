@@ -1,14 +1,11 @@
 ---
-name: Issue template
+name: ISSUE TEMPLATE
 about: Template para criação de novas issues.
 title: ''
 labels: ''
-assignees: mc-gomes
+assignees:
 
 ---
-
-# Título da issue
-
 ## Descrição
 (descreva o que será feito nesta issue)
 
@@ -21,5 +18,5 @@ assignees: mc-gomes
 - [ ] Criar Pull Request
 - [ ] Deletar branch criada (após PR aceito)
 
-## Observações
+## Observações (caso tenha)
 Não há nenhuma observação
