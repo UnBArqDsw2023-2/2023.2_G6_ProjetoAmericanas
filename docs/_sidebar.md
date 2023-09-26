@@ -13,6 +13,7 @@
       - [Rich Picture](/Base/RichPicture.md)
       - [Protótipo](Base/Prototipo.md)
     - [BPMN](/Base/1.2.ProcessosMetodologiasAbordagens.md)
+    - [Atas de Reunião](Base/AtasReuniao.md)
     - [1.3. Participações - Base](/Base/1.3.ParticipacoesBase.md)
 
 <!--
