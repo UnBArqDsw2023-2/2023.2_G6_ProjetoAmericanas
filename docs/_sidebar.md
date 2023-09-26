@@ -12,7 +12,7 @@
       - [Mapa Mental](/Base/MapaMental.md)
       - [Rich Picture](/Base/RichPicture.md)
       - [Protótipo](Base/Prototipo.md)
-    - [1.2. Módulo Processos/Metodologias/Abordagens](/Base/1.2.ProcessosMetodologiasAbordagens.md)
+    - [BPMN](/Base/1.2.ProcessosMetodologiasAbordagens.md)
     - [1.3. Participações - Base](/Base/1.3.ParticipacoesBase.md)
 
 <!--
