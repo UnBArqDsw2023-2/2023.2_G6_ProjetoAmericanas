@@ -60,8 +60,39 @@
 - Backlog
 - Sprint Backlog
 
+## Reunião: 3
+
+#### 3. Data, Horário, Duração e Local
+
+- **Data**: 26/09/2023
+- **Horário Início**: 20:00
+- **Duração**: 60 Minutos
+- **Local**: Discord
+
+#### 3.1 Participantes
+
+- Alex Gabriel
+- Bruno Seiji
+- Carlos Eduardo
+- Carlos Rafael
+- Gabriel de Souza
+- Guilherme Brito
+- Guilherme Peixoto
+- Matheus Costa
+- Matheus Raphael
+- Pedro Victor
+
+#### 3.2 Pontos de Discussão
+
+- Feedback da primeira entrega
+- Melhorias na dinâmica do time
+- Separação das tarefas
+- Participação bilateral dos integrantes
+- definição das políticas de trabalho
+
 # Versionamento
 
 | Versão |     Alteração     |  Responsável   | Revisor | Data de realização | Data de revisão |
 | :----: | :---------------: | :------------: | :-----: | :----------------: | :-------------: |
-|  1.0   | Criando documento | Carlos Eduardo |         |       26/09        |
+|  1.0   | Criando documento | Carlos Eduardo |         |       26/09        |                 |
+|  1.1   |     Reunião 3     | Carlos Eduardo |         |       27/09        |                 |
