@@ -47,7 +47,6 @@ Para a comunicação extra classe definimos 2 ferramentas principais a serem uti
 - #### WhatsApp
   O grupo da equipe no whatsapp é onde a comunicação acontece diáriamente, e onde começa todo o processo colaborativo.
 
-
 ### Bibliografia
 
 > Web site oficial do Kanban. Disponível em: <https://kanban.org/>
@@ -58,8 +57,8 @@ Para a comunicação extra classe definimos 2 ferramentas principais a serem uti
 
 ### Histórico de versionamento
 
-| Versão | Alteração |  Responsável  | Revisor | Data de realização | Data de revisão |
-| ---------- | ------ | -------------------- | ------- | ------- | ----- |
-| 1.0 | Criação do documento | Carlos Eduardo | Alex Gabriel | 15/09 | 15/09|
-| 1.1  | Adição de escolha dos artefatos | Carlos Eduardo | Alex Gabriel| 15/09 | 15/09 |
-| 2.0 | Adição de descrição Design Sprint | Matheus Costa | Alex Gabriel| 15/09 | 15/09 |
+| Versão | Alteração                         | Responsável    | Revisor      | Data de realização | Data de revisão |
+| ------ | --------------------------------- | -------------- | ------------ | ------------------ | --------------- |
+| 1.0    | Criação do documento              | Carlos Eduardo | Alex Gabriel | 15/09              | 15/09           |
+| 1.1    | Adição de escolha dos artefatos   | Carlos Eduardo | Alex Gabriel | 15/09              | 15/09           |
+| 2.0    | Adição de descrição Design Sprint | Matheus Costa  | Alex Gabriel | 15/09              | 15/09           |
