@@ -1,98 +1,42 @@
-# Atas De Reunião
+# Reuniões da equipe
 
-## Reunião: 1
+## 1. Introdução
 
-#### 1. Data, Horário, Duração e Local
+Este documento visa agrupar as informações referentes às reuniões realizadas pelo grupo, contendo tanto o Mapa de Calor da equipe, pelo qual foi possível determinar datas para reuniões, quanto as atas das mesmas.
 
-- **Data**: 13/09/2023
-- **Horário Início**: 19:00
-- **Duração**: 1.5 Horas
-- **Local**: Discord
+**Obs**: este documento será atualizado com o decorrer da disciplina.
 
-#### 1.1 Participantes
+## 2. Mapa de Calor
 
-- Alex Gabriel
-- Bruno Seiji
-- Carlos Eduardo
-- Carlos Rafael
-- Gabriel de Souza
-- Guilherme Brito
-- Guilherme Peixoto
-- Matheus Costa
-- Matheus Raphael
-- Pedro Victor
+Para estabelecermos os horários para nossas reuniões de planejamento de cada Sprint, elaboramos um Mapa de Calor a fim de identificar os momentos da semana nos quais a maioria ou todos os membros da equipe estivessem disponíveis. 
 
-#### 1.2 Pontos de Discussão
+O referido mapa pode ser visto a seguir. Cada sigla presente na tabela de horários se refere aos integrantes do grupo em seus devidos horários de disponibilidade.
 
-- Brain Storm
-- Definição de metodologia de trabalho
-- Divisão das tarefas
+![Mapa de Calor](../Assets/heatmap.png)
 
-## Reunião: 2
+<h6 align = "center">Figura 1: mapa de calor da equipe</h6>
 
-#### 2. Data, Horário, Duração e Local
+### 2.1 Reuniões
 
-- **Data**: 25/09/2023
-- **Horário Início**: 14:00
-- **Duração**: 60 Minutos
-- **Local**: Discord
+Com o Mapa de Calor devidamente preenchido, é possível constatar que os dias de Segundas e Sextas-feiras, das 18h às 20h, e Sábados de 14h às 16h, emergem como os horários mais propícios para agendamento das reuniões, visto que são horários cuja maior parte dos integrantes se encontram disponíveis. Desta forma, buscaremos seguir esse princípio.
 
-#### 2.1 Participantes
+É importante ressaltar que isso não implica necessariamente que todas as reuniões serão agendadas sistematicamente nos mesmos dias da semana e horários. Considerando o alto envolvimento dos integrantes concomitantemente com outras disciplinas, e até mesmo com outros tipos de atividades, além de imprevistos, estabelecer uma data fixa de reuniões poderia comprometer eventuais encontros, por conta da indisponibilidade de alguns. Por conta disso, no quesito das reuniões, o grupo se torna mais flexível, buscando se adaptar de forma mais eficaz às particularidades de cada integrante, mas ainda assim, visando fortemente manter o compromisso de ao menos uma reunião semanal.
 
-- Alex Gabriel
-- Bruno Seiji
-- Carlos Eduardo
-- Carlos Rafael
-- Gabriel de Souza
-- Guilherme Brito
-- Guilherme Peixoto
-- Matheus Costa
-- Matheus Raphael
-- Pedro Victor
 
-#### 2.2 Pontos de Discussão
+## 3. Atas de Reunião
 
-- Correção na documentação
-- Política de criação de issues
-- Política de criação de branchs
-- Política de commits
-- Kanban
-- Backlog
-- Sprint Backlog
+| Reunião | Data  | Horário | Duração | Local | Participantes | Pontos discutidos |
+|:------- | :---: | :-----: | :-----:  | :---: | :-----------: | :----------: |
+| 1   | 13/09/2023 | 19:00 | 1h 30 min | Discord | TODOS | Brainstorming; <br> Definição de metodologia de trabalho; <br> Divisão das tarefas |
+| 2   | 25/09/2023 | 14:00 | 60 min | Discord | TODOS | Correções na documentação; <br> Políticas de commits, branches e issues; <br> Atualização do Kanban; <br> Documentação do Backlog e das Sprints |
+| 3   | 26/09/2023 | 20:00 | 60 min | Discord | TODOS | Feedback da 1a entrega; <br> Melhorias na dinâmica da equipe; <br> Divisão das tarefas para a 2a entrega; <br> Participação bilateral dos integrantes; <br> Definição das políticas de trabalho |
 
-## Reunião: 3
 
-#### 3. Data, Horário, Duração e Local
 
-- **Data**: 26/09/2023
-- **Horário Início**: 20:00
-- **Duração**: 60 Minutos
-- **Local**: Discord
-
-#### 3.1 Participantes
-
-- Alex Gabriel
-- Bruno Seiji
-- Carlos Eduardo
-- Carlos Rafael
-- Gabriel de Souza
-- Guilherme Brito
-- Guilherme Peixoto
-- Matheus Costa
-- Matheus Raphael
-- Pedro Victor
-
-#### 3.2 Pontos de Discussão
-
-- Feedback da primeira entrega
-- Melhorias na dinâmica do time
-- Separação das tarefas
-- Participação bilateral dos integrantes
-- definição das políticas de trabalho
-
-# Versionamento
+## Versionamento
 
 | Versão |     Alteração     |  Responsável   | Revisor | Data de realização | Data de revisão |
 | :----: | :---------------: | :------------: | :-----: | :----------------: | :-------------: |
 |  1.0   | Criando documento | Carlos Eduardo | Matheus Costa | 26/09        |    27/09        |
 |  1.1   | adição da Reunião 3  | Carlos Eduardo | Matheus Costa | 27/09        |     27/09       |
+|  2.0   | Estruturação em formato de tabela  | Matheus Costa | a definir | 27/09        |         |

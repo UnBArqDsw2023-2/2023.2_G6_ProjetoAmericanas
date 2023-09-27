@@ -2,7 +2,7 @@
 
 - [Home](/)
 - [Diretrizes](/Diretrizes/Diretrizes.md)
-- [Atas de Reunião](Base/AtasReuniao.md)
+- [Reuniões da equipe](Base/AtasReuniao.md)
 
 - **Base - Entrega 1**
 
@@ -13,7 +13,6 @@
       - [Mapa Mental](/Base/MapaMental.md)
       - [Rich Picture](/Base/RichPicture.md)
       - [Protótipo](Base/Prototipo.md)
-    - [Conferências](/Base/Reunioes.md)
     - [Backlog](/Base/Backlog.md)
     - [Sprint-Backlog](/Base/SprintBacklog.md)
     - [1.2. Módulo Processos/Metodologias/Abordagens](/Base/1.2.ProcessosMetodologiasAbordagens.md)
