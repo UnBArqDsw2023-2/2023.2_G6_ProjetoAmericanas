@@ -2,7 +2,7 @@
 
 - [Home](/)
 - [Diretrizes](/Diretrizes/Diretrizes.md)
-- [Reuniões da equipe](Base/AtasReuniao.md)
+- [Reuniões da equipe](Reunioes/AtasReuniao.md)
 
 - **Base - Entrega 1**
 
