@@ -4,7 +4,7 @@
 
 Este documento visa agrupar as informações referentes às reuniões realizadas pelo grupo, contendo tanto o Mapa de Calor da equipe, pelo qual foi possível determinar datas para reuniões, quanto as atas das mesmas.
 
-**Obs**: este documento será atualizado com o decorrer da disciplina.
+**Obs**: este documento será atualizado conforme o decorrer da disciplina
 
 ## 2. Mapa de Calor
 
