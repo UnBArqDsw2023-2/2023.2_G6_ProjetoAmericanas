@@ -94,5 +94,5 @@
 
 | Versão |     Alteração     |  Responsável   | Revisor | Data de realização | Data de revisão |
 | :----: | :---------------: | :------------: | :-----: | :----------------: | :-------------: |
-|  1.0   | Criando documento | Carlos Eduardo |         |       26/09        |                 |
-|  1.1   |     Reunião 3     | Carlos Eduardo |         |       27/09        |                 |
+|  1.0   | Criando documento | Carlos Eduardo | Matheus Costa | 26/09        |    27/09        |
+|  1.1   | adição da Reunião 3  | Carlos Eduardo | Matheus Costa | 27/09        |     27/09       |
