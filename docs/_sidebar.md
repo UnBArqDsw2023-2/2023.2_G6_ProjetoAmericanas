@@ -6,7 +6,8 @@
   - [Política de commits](/Organizacao/polit_commit.md)
   - [Política de branches](/Organizacao/polit_branches.md)
   - [Política de issues](/Organizacao/polit_issues.md)
-- [Atas de Reunião](Base/AtasReuniao.md)
+- [Reuniões da equipe](Reunioes/AtasReuniao.md)
+- [Sprints](Sprints/SprintBacklog.md)
 
 - **Base - Entrega 1**
 
