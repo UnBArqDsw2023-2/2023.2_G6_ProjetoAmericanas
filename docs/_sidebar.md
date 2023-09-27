@@ -2,6 +2,7 @@
 
 - [Home](/)
 - [Diretrizes](/Diretrizes/Diretrizes.md)
+- [Organização da equipe](/Organizacao/organizacao.md)
 
 - **Base - Entrega 1**
 
