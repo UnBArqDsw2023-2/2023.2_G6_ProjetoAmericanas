@@ -2,6 +2,10 @@
 
 - [Home](/)
 - [Diretrizes](/Diretrizes/Diretrizes.md)
+- [Organização da equipe](/Organizacao/organizacao.md)
+  - [Política de commits](/Organizacao/polit_commit.md)
+  - [Política de branches](/Organizacao/polit_branches.md)
+  - [Política de issues](/Organizacao/polit_issues.md)
 - [Reuniões da equipe](Reunioes/AtasReuniao.md)
 - [Sprints](Sprints/SprintBacklog.md)
 
