@@ -19,7 +19,15 @@
 
 
 ## Sobre 
-Contextualize, usando referências, links, e outros materiais como fontes.
+Este projeto faz parte da disciplina de Arquitetura e Desenho de Software do segundo semestre de 2023, ministrada pela Professora Milene Serrano.
+
+O intuito deste projeto é fazer com que o grupo seja capaz de aplicar os conhecimentos aprendidos em aula, através de entregas relativas aos conteúdos estudados.
+
+Os conteúdos são divididos nos seguintes módulos: **Desenho de Software - Base**; **Desenho de Software - Modelagem**; e **Arquitetura & Reutilização de Software**, ao qual cada um terá uma entrega respectiva no repositório do grupo.
+
+Dentre os temas pré-selecionados pela professora, este grupo foi designado a trabalhar com a aplicação web das [Lojas Americanas](https://www.americanas.com.br/), cujos focos são: Perfil Comprador & Plataforma e fluxos compreendidos nas políticas de trocas e devoluções.
+
+As entregas e os artefatos desenvolvidos pelo grupo podem ser vistos ao longo desta página, por meio da navegação no menu lateral.
 
 ## Screenshots Primeira Entrega <<FOCO: DSW(Base)>>
 Adicione 2 ou mais screenshots em termos de artefatos da Primeira Entrega.
