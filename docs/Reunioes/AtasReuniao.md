@@ -16,7 +16,7 @@ O referido mapa pode ser visto a seguir. Cada sigla presente na tabela de horár
 
 <h6 align = "center">Figura 1: mapa de calor da equipe</h6>
 
-### 2.1 Reuniões
+### 2.1. Reuniões
 
 Com o Mapa de Calor devidamente preenchido, é possível constatar que os dias de Segundas e Sextas-feiras, das 18h às 20h, e Sábados de 14h às 16h, emergem como os horários mais propícios para agendamento das reuniões, visto que são horários cuja maior parte dos integrantes se encontram disponíveis. Desta forma, buscaremos seguir esse princípio.
 
@@ -39,4 +39,4 @@ Com o Mapa de Calor devidamente preenchido, é possível constatar que os dias d
 | :----: | :---------------: | :------------: | :-----: | :----------------: | :-------------: |
 |  1.0   | Criando documento | Carlos Eduardo | Matheus Costa | 26/09        |    27/09        |
 |  1.1   | adição da Reunião 3  | Carlos Eduardo | Matheus Costa | 27/09        |     27/09       |
-|  2.0   | Estruturação em formato de tabela  | Matheus Costa | a definir | 27/09        |         |
+|  2.0   | Atas em formato de tabela  | Matheus Costa | Bruno Seiji | 27/09 |  28/09 |
