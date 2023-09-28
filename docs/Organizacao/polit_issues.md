@@ -46,29 +46,10 @@ Assim, o fluxo de criação de uma nova issue e criação de um novo _card_ no K
 
 > **Método Kanban**: Guia detalhado e 5 modelos prontos para usar. Blog Trello. Disponível em: <a href="https://blog.trello.com/br/metodo-kanban" target="__blank">https://blog.trello.com/br/metodo-kanban</a>. **Acesso em:** 27 set. 2023.
 
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ## Versionamento
 
 | Versão | Alteração |  Responsável  | Revisor | Data de realização | Data de revisão |
 | :------: | :---: | :-----: | :----: | :----: | :-----: |
-| 1.0    | criação do documento | Matheus Costa | a definir | 27/09/2023| a definir |
-
-
-
+| 1.0    | criação do documento | Matheus Costa | Bruno Seiji | 27/09/2023| 28/09/23 |
 
