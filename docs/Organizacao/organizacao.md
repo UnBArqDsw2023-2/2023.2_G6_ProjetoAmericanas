@@ -21,5 +21,5 @@ Além disso, a fim de também aprimorar a organização interna da equipe a part
 
 | Versão | Alteração |  Responsável  | Revisor | Data de realização | Data de revisão |
 | :------: | :---: | :-----: | :----: | :----: | :-----: |
-| 1.0    | criação do documento | Matheus Costa | a definir | 27/09/2023| a definir |
+| 1.0    | criação do documento | Matheus Costa | Bruno Seiji | 27/09/2023| 28/09/23 |
 
