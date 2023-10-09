@@ -18,4 +18,4 @@ O artefato apresentado oferece uma perspectiva macro dos pacotes, os quais repre
 
 | Versão | Alteração            | Responsável    | Revisor | Data de realização | Data de revisão |
 | ------ | -------------------- | -------------- | ------- | ------------------ | --------------- |
-| 1.0    | Criação do documento | Carlos Rafael|         | 07/10              |                 |
+| 1.0    | Criação do documento | Carlos Rafael| Matheus Raphael | 07/10              | 08/10 |
