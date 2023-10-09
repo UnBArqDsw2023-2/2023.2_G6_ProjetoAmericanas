@@ -19,4 +19,4 @@ No processo de criação do nosso diagrama de classes, iniciamos identificando a
 
 | Versão | Alteração |  Responsável  | Revisor | Data de realização | Data de revisão |
 | :------: | :---: | :-----: | :----: | :----: | :-----: |
-| 1.0    | criação do artefato Rich Picture | Alex Gabriel | A definir | 04/10/2023| 08/10/2023 |
+| 1.0    | criação do artefato Rich Picture | Alex Gabriel | Bruno Kishibe | 04/10/2023| 09/10/2023 |
