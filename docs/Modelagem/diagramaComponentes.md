@@ -26,4 +26,5 @@ Após feedback da professora foi gerado uma nova versão do diagrama, porém foi
 | Versão | Alteração |  Responsável  | Revisor | Data de realização | Data de revisão |
 | :------: | :---: | :-----: | :----: | :----: | :-----: |
 | 1.0    | criação do diagrama de componentes| Gabriel de Souza | Matheus Costa | 04/10/2023| 09/10/2023 |
+| 2.0    | correções do diagrama de componentes| Gabriel de Souza | Matheus Costa | 09/10/2023| 09/10/2023 |
 
