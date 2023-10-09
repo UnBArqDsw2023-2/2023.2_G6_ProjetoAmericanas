@@ -13,7 +13,7 @@ Os diagramas de componentes tem como objetivo mostrar a estrutura do sistema de 
 ### 3.Refatoração
 Após feedback da professora foi gerado uma nova versão do diagrama, porém foi encontrado um impedimento devido a limitação da ferramenta Lucid Chart para criação do diagrama. Fica o adendo para a falta de algumas portas e interfaces no diagrama.
 
-![Diagrama Componentes](../Assets/diagrama-componentes.png)
+![Diagrama Componentes](../Assets/diagrama-componentes-2.png)
 
 <h6 align = "center">Figura 2: Diagrama de Componentes Gabriel de Souza</h6>
 
