@@ -29,4 +29,4 @@ O diagrama representa o fluxo de interações entre os objetos do sistema e suas
 
 | Versão | Alteração            | Responsável    | Revisor | Data de realização | Data de revisão |
 | ------ | -------------------- | -------------- | ------- | ------------------ | --------------- |
-| 1.0    | Criação do documento | Matheus Raphael |         | 08/10/2023 |                 |
+| 1.0    | Criação do documento | Matheus Raphael |   Matheus Costa      | 08/10/2023 |   09/10     |

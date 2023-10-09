@@ -21,4 +21,4 @@ O diagrama estabelece o fluxo que o deve ser seguido ao realizar um processo de 
 
 | Versão | Alteração            | Responsável    | Revisor | Data de realização | Data de revisão |
 | ------ | -------------------- | -------------- | ------- | ------------------ | --------------- |
-| 1.0    | Criação do documento | Guilherme Lima |         | 05/10              |                 |
+| 1.0    | Criação do documento | Guilherme Lima |  Matheus Costa  | 05/10      |   09/10      |

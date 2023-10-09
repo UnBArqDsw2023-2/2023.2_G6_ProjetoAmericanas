@@ -18,4 +18,4 @@ No diagrama acima, é apresentado os estados que o sistema passa durante as situ
 
 | Versão |     Alteração     |  Responsável  | Revisor | Data de realização | Data de revisão 
 | :----: | :---------------: | :-----------: | :-----: | :---: | :----:
-|  1.0   | Criação documento e diagrama | Bruno Kishibe |  | 08/10 | 08/10
+|  1.0   | Criação documento e diagrama | Bruno Kishibe | Matheus Costa | 08/10 | 08/10
