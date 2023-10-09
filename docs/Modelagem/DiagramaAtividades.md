@@ -18,30 +18,36 @@ Os componentes envolvidos nesse diagrama são:
 
 - **Notações Adicionais**: Além dos elementos básicos mencionados, diagramas de atividades podem incluir notações adicionais, como estados, partições (pools), objetos e fluxos de dados, dependendo da complexidade do sistema ou processo sendo modelado.
 
-### 1.1 Simbolos utilizados no Diagrama de Atividades (LucidChart, 2023):
+### 1.1. Simbolos utilizados no Diagrama de Atividades (LucidChart, 2023):
 
 |                                                   Símbolo                                                    | Nome                       | Descrição                                                                   |
 | :----------------------------------------------------------------------------------------------------------: | -------------------------- | --------------------------------------------------------------------------- |
-|                <img src="../Assets//modelagem/diagramaAitivdades/da-inicio.png" alt="Início">                | Início/ Nódulo Inicial     | Representa ponto de partida ou estado inicial de uma atividade ou ação;     |
-|   <img src="../Assets/modelagem/diagramaAitivdades/da-atividade-estado.png" alt="Atividade" width="200" >    | Atividade / Estado de Ação | Representa as atividades do processo                                        |
-| <img src="../Assets/modelagem/diagramaAitivdades/da-fluxo-controle.png" alt="Fluxo de controle" width="200"> | Fluxo de controle / Borda  | Representa o fluxo de controle de uma ação/estado para outra                |
-|         <img src="../Assets/modelagem/diagramaAitivdades/da-fim-no.png" alt="Nó final de atividade">         | Atividade final Node       | Representa o fim de um fluxo de controle                                    |
-|            <img src="../Assets/modelagem/diagramaAitivdades/da-fim.png" alt="Nó final de fluxo">             | Fluxo final Nó             | Representa o fim de todas as tividades                                      |
-|           <img src="../Assets/modelagem/diagramaAitivdades/da-no-decisao.png" alt="Nó de decisão">           | Nó de Decisão              | Representa um ponto de ramificação condifiocnal com múltiplas saídas        |
-|           <img src="../Assets/modelagem/diagramaAitivdades/da-garfo.png" alt="Garfo" width="200">            | Garfo                      | Representa um fluxo que pode se ramificar em dois ou mais fluxos paralelos. |
+|   ![simbolo inicio](../Assets//modelagem/diagramaAitivdades/da-inicio.png)     | Início/ Nódulo Inicial     | Representa ponto de partida ou estado inicial de uma atividade ou ação;     |
+| ![ativ-estado](../Assets/modelagem/diagramaAitivdades/da-atividade-estado.png)    | Atividade / Estado de Ação | Representa as atividades do processo                                        |
+| ![fluxo-controle](../Assets/modelagem/diagramaAitivdades/da-fluxo-controle.png) | Fluxo de controle / Borda  | Representa o fluxo de controle de uma ação/estado para outra                |
+| ![fim-fluxo](../Assets/modelagem/diagramaAitivdades/da-fim-no.png)         | Atividade final Node       | Representa o fim de um fluxo de controle                                    |
+|  ![fluxo-final-no](../Assets/modelagem/diagramaAitivdades/da-fim.png)        | Fluxo final Nó             | Representa o fim de todas as tividades                                      |
+|  ![no-decisao](../Assets/modelagem/diagramaAitivdades/da-no-decisao.png)           | Nó de Decisão              | Representa um ponto de ramificação condifiocnal com múltiplas saídas        |
+|  ![garfo](../Assets/modelagem/diagramaAitivdades/da-garfo.png)         | Garfo                      | Representa um fluxo que pode se ramificar em dois ou mais fluxos paralelos. |
 
-### 1.2 Artefato
+<h6 align = "center">Figura 1: Legenda dos componentes do diagrama</h6>
+
+
+### 1.2. Artefato
 
 ![Diagrama de Atividades](../Assets/modelagem/diagramaAitivdades/diagrama-atividades.png)
+<h6 align = "center">Figura 2: Diagrama de atividades</h6>
+
 
 O diagrama estabelece o fluxo que o cliente deve seguir ao realizar um processo de devolução ou troca de um produto. No caso de uma devolução, o cliente tem a opção de enviar o produto diretamente pelo correio, levá-lo a uma loja física ou solicitar que o item seja coletado em sua residência. No fluxo de troca, o cliente pode escolher entre a substituição do produto por outro ou a obtenção de um voucher de reembolso.
 
-## 2. Referências
+## Referências
 
-- LUCIDCHART. O que é UML? Disponível em: https://www.lucidchart.com/pages/pt/o-que-e-uml. Acesso em: 28/09/2023.
-- Milene Serrano - Arquitetura e Desenho de software: Desenho de Software (Modelagem).
+> LUCIDCHART. O que é UML? Disponível em: https://www.lucidchart.com/pages/pt/o-que-e-uml. Acesso em: 28 set. 2023.
 
-## 3. Versionamento
+> Milene Serrano - Arquitetura e Desenho de software: Desenho de Software (Modelagem).
+
+## Versionamento
 
 | Versão | Alteração            | Responsável    | Revisor | Data de realização | Data de revisão |
 | ------ | -------------------- | -------------- | ------- | ------------------ | --------------- |
