@@ -4,15 +4,17 @@
 
 O diagrama de estados é um diagrama dinâmico, que descreve o comportamento de um sistema por meio de estados finitos de transição, um objeto muda de estado quando ocorre algum evento interno ou externo ao sistema. Os diagramas de estados também podem ser utilizados para descrever os protocolos de uso de uma determinada parte do sistema.
 
-## 1.2. Artefato
+## 1.1. Artefato
 
 ![Diagrama de estados](../Assets/diagrama_estados.png)
+<h6 align = "center">Figura 1: Diagrama de Estados</h6>
+
 
 No diagrama acima, é apresentado os estados que o sistema passa durante as situações de troca ou devolução de produtos.
 
-## 2. Referências
+## Referências
 
-- State Machine Diagrams. Disponível em: https://www.uml-diagrams.org/state-machine-diagrams.html
+> State Machine Diagrams. Disponível em: https://www.uml-diagrams.org/state-machine-diagrams.html
 
 ## Versionamento
 

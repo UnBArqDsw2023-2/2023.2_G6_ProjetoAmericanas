@@ -6,12 +6,13 @@ Os diagramas de componentes tem como objetivo mostrar a estrutura do sistema de 
 
 ## 2. Artefato
 
-<img src="../Assets/diagrama-componentes.png">
+![Diagrama Componentes](../Assets/diagrama-componentes.png)
+
 <h6 align = "center">Figura 1: Diagrama de Componentes Gabriel de Souza</h6>
 
-## Referências bibliográficas
+## Referências
 
-> LUCIDCHART. **O que é um diagrama de componentes UML?**. Disponível em: <a href="https://www.lucidchart.com/pages/pt/diagrama-de-componentes-uml" target="__blank">clique aqui!</a> **Acesso em:** 04 out. 2023.
+> LUCIDCHART. **O que é um diagrama de componentes UML?**. Disponível em: <a href="https://www.lucidchart.com/pages/pt/diagrama-de-componentes-uml" target="__blank">https://www.lucidchart.com/pages/pt/diagrama-de-componentes-uml</a> **Acesso em:** 04 out. 2023.
 
 ## Versionamento
 

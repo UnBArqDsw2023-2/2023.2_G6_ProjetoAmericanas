@@ -12,20 +12,24 @@ O Diagrama de Comunicação tem como objetivo destacar os relacionamentos estrut
 
 - **Mensagens**: Uma mensagem é um elemento do UML que define uma comunicação entre instâncias em uma interação, transportando informações entre uma Lifeline e outra.
 
-### 1.1 Artefato
+### 1.1. Artefato
 
 ![Diagrama de Comunicação](../Assets/modelagem/diagramaComunicacao/communications_diagram_v2.1.png)
+<h6 align = "center">Figura 1: Diagrama de componentes</h6>
 
 O diagrama representa o fluxo de interações entre os objetos do sistema e suas mensagens, que ocorrem quando o usuário busca realizar o processo de devolução ou troca de um produto. Vale destacar a mensagem trocarProduto(), pois ela é condicional e pode ou não ser acessada, a depender da escolha do Cliente.
 
-## 2. Referências
+## Referências
 
-- UML Communication Diagrams Overview. Disponível em: https://www.uml-diagrams.org/communication-diagrams.html. Acesso em: 05/10/2023.
-- Communication Diagram Tutorial. Disponível em: https://www.lucidchart.com/pages/uml-communication-diagram. Acesso em: 08/10/2023.
-- Communication Diagrams. Disponível em: https://www.ibm.com/docs/en/rsm/7.5.0?topic=uml-communication-diagrams. Acesso em: 08/10/2023.
-- BOOCH, G. UML: Guia do Usuário. Segunda Edição.
+> UML Communication Diagrams Overview. Disponível em: https://www.uml-diagrams.org/communication-diagrams.html. Acesso em: 05 out. 2023.
 
-## 3. Versionamento
+> Communication Diagram Tutorial. Disponível em: https://www.lucidchart.com/pages/uml-communication-diagram. Acesso em: 08 out. 2023.
+
+> Communication Diagrams. Disponível em: https://www.ibm.com/docs/en/rsm/7.5.0?topic=uml-communication-diagrams. Acesso em: 08 out. 2023.
+
+> BOOCH, G. UML: Guia do Usuário. Segunda Edição.
+
+## Versionamento
 
 | Versão | Alteração            | Responsável    | Revisor | Data de realização | Data de revisão |
 | ------ | -------------------- | -------------- | ------- | ------------------ | --------------- |
