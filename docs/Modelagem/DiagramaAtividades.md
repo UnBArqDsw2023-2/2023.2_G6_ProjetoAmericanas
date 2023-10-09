@@ -45,4 +45,4 @@ O diagrama estabelece o fluxo que o cliente deve seguir ao realizar um processo 
 
 | Versão | Alteração            | Responsável    | Revisor | Data de realização | Data de revisão |
 | ------ | -------------------- | -------------- | ------- | ------------------ | --------------- |
-| 1.0    | Criação do documento | Carlos Eduardo |         | 28/09              |                 |
+| 1.0    | Criação do documento | Carlos Eduardo | Matheus Costa  | 28/09     | 09/10           |
