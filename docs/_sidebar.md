@@ -30,6 +30,7 @@
         - [Diagrama de Componentes](Modelagem/diagramaComponentes.md)
         - [Diagrama de pacotes](Modelagem/estaticos/diagrama_de_pacotes.md)
       - [2.1.2. Notação UML – Diagramas Dinâmicos](Modelagem/2.1.2.UMLDinamicos.md)
+        - [Diagrama de Atividades](Modelagem/DiagramaAtividades.md)
     - [2.2. Participações - Modelagem](Modelagem/2.2.ParticipacoesModelagem.md)
 
 <!--
