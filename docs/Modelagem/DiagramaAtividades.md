@@ -22,7 +22,7 @@ Os componentes envolvidos nesse diagrama são:
 
 |                                                   Símbolo                                                    | Nome                       | Descrição                                                                   |
 | :----------------------------------------------------------------------------------------------------------: | -------------------------- | --------------------------------------------------------------------------- |
-|   ![simbolo inicio](../Assets//modelagem/diagramaAitivdades/da-inicio.png)     | Início/ Nódulo Inicial     | Representa ponto de partida ou estado inicial de uma atividade ou ação;     |
+|   ![simbolo inicio](../Assets/modelagem/diagramaAitivdades/da-inicio.png)     | Início/ Nódulo Inicial     | Representa ponto de partida ou estado inicial de uma atividade ou ação;     |
 | ![ativ-estado](../Assets/modelagem/diagramaAitivdades/da-atividade-estado.png)    | Atividade / Estado de Ação | Representa as atividades do processo                                        |
 | ![fluxo-controle](../Assets/modelagem/diagramaAitivdades/da-fluxo-controle.png) | Fluxo de controle / Borda  | Representa o fluxo de controle de uma ação/estado para outra                |
 | ![fim-fluxo](../Assets/modelagem/diagramaAitivdades/da-fim-no.png)         | Atividade final Node       | Representa o fim de um fluxo de controle                                    |
