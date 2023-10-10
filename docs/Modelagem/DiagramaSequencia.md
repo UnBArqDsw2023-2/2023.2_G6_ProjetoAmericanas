@@ -19,7 +19,7 @@ O diagrama estabelece o fluxo que o deve ser seguido ao realizar um processo de 
 
 ## Referências
 
-> LUCIDCHART. UML Sequence Diagram Tutorial Disponível em: [https://www.lucidchart.com/pages/pt/o-que-e-uml](https://www.lucidchart.com/pages/uml-sequence-diagram). Acesso em: 02/10/2023.
+> LUCIDCHART. UML Sequence Diagram Tutorial Disponível em: [https://www.lucidchart.com/pages/pt/o-que-e-uml](https://www.lucidchart.com/pages/uml-sequence-diagram). Acesso em: 02 out. 2023.
 
 ## Versionamento
 
