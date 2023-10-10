@@ -18,7 +18,7 @@ Após feedback da professora, foi gerado uma nova versão do diagrama, porém fo
 
 ## Referências
 
-> LUCIDCHART. **O que é um diagrama de componentes UML?**. Disponível em: <a href="https://www.lucidchart.com/pages/pt/diagrama-de-componentes-uml" target="__blank">https://www.lucidchart.com/pages/pt/diagrama-de-componentes-uml</a> **Acesso em:** 04 out. 2023.
+> LUCIDCHART. **O que é um diagrama de componentes UML?**. Disponível em: <a href="https://www.lucidchart.com/pages/pt/diagrama-de-componentes-uml" target="__blank">https://www.lucidchart.com/pages/pt/diagrama-de-componentes-uml</a>. **Acesso em:** 04 out. 2023.
 
 ## Versionamento
 

@@ -7,6 +7,7 @@ São diagramas estruturais representados por pacotes compostos de classes, diagr
 ### 1.1. Artefato
 
 ![Diagrama de Pacotes](../../Assets/modelagem/diagramaPacotes/package_diagram.png)
+<h6 align = "center">Figura 1: Diagrama de pacotes</h6>
 
 O artefato apresentado oferece uma perspectiva macro dos pacotes, os quais representam partes do sistema. A maneira como esses pacotes se relacionam lembram a ideia de componentes e funcionalidades reutilizáveis.
 
@@ -15,6 +16,7 @@ O artefato apresentado oferece uma perspectiva macro dos pacotes, os quais repre
 Após considerações feitas pela professora, foi gerado um novo diagrama.
 
 ![Diagrama de Pacotes](../../Assets/modelagem/diagramaPacotes/package_diagram2.png)
+<h6 align = "center">Figura 2: Diagrama de pacotes - nova versão</h6>
 
 ## Referências
 
