@@ -35,11 +35,14 @@ Os componentes envolvidos nesse diagrama são:
 
 ### 1.2. Artefato
 
-![Diagrama de Atividades](../Assets/modelagem/diagramaAitivdades/diagrama-atividades.png)
-<h6 align = "center">Figura 2: Diagrama de atividades</h6>
+![Diagrama de Atividades](../Assets/modelagem/diagramaAitivdades/troca-devolucao.png)
+<h6 align = "center">Figura 2: Fluxo de troca/devolução</h6>
+
+![Diagrama de Atividades](../Assets/modelagem/diagramaAitivdades/envio-produto.png)
+<h6 align = "center">Figura 3: Fluxo de envio de produto</h6>
 
 
-O diagrama estabelece o fluxo que o cliente deve seguir ao realizar um processo de devolução ou troca de um produto. No caso de uma devolução, o cliente tem a opção de enviar o produto diretamente pelo correio, levá-lo a uma loja física ou solicitar que o item seja coletado em sua residência. No fluxo de troca, o cliente pode escolher entre a substituição do produto por outro ou a obtenção de um voucher de reembolso.
+O diagrama delineia o fluxo de atividades relacionado à troca ou devolução de um produto específico. No cenário de troca, o cliente tem a opção de substituir o item por outro produto (seja o mesmo ou similar) ou optar por receber um voucher para futuras compras. Tanto para o processo de devolução quanto para o de troca, o cliente é solicitado a escolher a modalidade de envio do produto indesejado. As alternativas incluem retirada em domicílio, entrega na loja mais próxima ou envio pelos correios. Essas escolhas oferecem flexibilidade ao cliente no processo de gestão de trocas e devoluções.
 
 ## Referências
 
@@ -52,3 +55,4 @@ O diagrama estabelece o fluxo que o cliente deve seguir ao realizar um processo 
 | Versão | Alteração            | Responsável    | Revisor | Data de realização | Data de revisão |
 | ------ | -------------------- | -------------- | ------- | ------------------ | --------------- |
 | 1.0    | Criação do documento | Carlos Eduardo | Matheus Costa  | 28/09     | 09/10           |
+|2.0     | Recriaçã do do diagrama| Carlos Eduardo, Bruno, Matheus C| | 28/11 ||
