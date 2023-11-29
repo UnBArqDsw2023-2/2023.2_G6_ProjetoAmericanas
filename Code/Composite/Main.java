@@ -12,6 +12,7 @@ public class Main {
         produtos.add(videoGame);
         produtos.add(celular);
         produtos.count();
+        System.out.println("-------------------removing-------------------");
         produtos.remove(videoGame);
         produtos.count();
     }
