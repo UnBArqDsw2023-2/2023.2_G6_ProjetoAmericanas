@@ -1,6 +1,7 @@
-package celulares;
+package Model;
 
-import code.composite.component.Produto;
+import Component.Produto;
+
 
 public class Celular implements Produto
 {

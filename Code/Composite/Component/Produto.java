@@ -1,4 +1,4 @@
-package code.composite.component;
+package Component;
 
 public interface Produto {
     public void count();

@@ -1,9 +1,6 @@
-import caixachocolate.CaixaChocolate;
-import videogame.VideoGame;
-import celulares.Celular;
-import code.composite.component.Produto;
-import code.composite.composite.Composite;
-import code.composite.composta.Produtos;
+import Component.Produto;
+import Composta.Produtos;
+import Model.*;
 
 public class Main {
     public static void main (String[] args){

@@ -1,6 +1,6 @@
-package caixachocolate;
+package Model;
 
-import code.composite.component.Produto;
+import Component.Produto;
 
 public class CaixaChocolate implements Produto
 {

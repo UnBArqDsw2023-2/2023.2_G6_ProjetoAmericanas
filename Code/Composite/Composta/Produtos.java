@@ -1,8 +1,8 @@
-package code.composite.composta;
+package Composta;
 
 import java.util.ArrayList;
 import java.util.List;
-import code.composite.component.Produto;
+import Component.Produto;
 
 public class Produtos implements Produto {
     private List<Produto> produtos = new ArrayList<Produto>();
