@@ -3,6 +3,9 @@
 ## Introdução
 De acordo com [1], o Chain of Responsibility é um padrão de projeto comportamental que permite que você passe pedidos por uma corrente de handlers. Ao receber um pedido, cada handler decide se processa o pedido ou o passa adiante para o próximo handler na corrente.
 
+
+O padrão será aplicado para encaminhar as solicitações de troca ou devolução para o departamento específico, levando em consideração o motivo associado a cada solicitação.
+
 <div align = "center">
 
 ![](../Assets/PadroesProjeto/chainResponse.png)  
@@ -19,6 +22,10 @@ Em essência, ao aplicar o Chain of Responsibility, estamos melhorando a organiz
 A implementação do padrão de projeto foi realizada usando a linguagem Java e criando uma abstração de como funcionaria no sistema da Lojas Americanas. 
 
 ### Diagrama UML
+Modelagem utilizando a ferramenta online [lucidchart](https://www.lucidchart.com/pages/)
+
+![](../Assets/PadroesProjeto/chainUml.png)
+<h6 align = "center">Figura 2: Codigo dep. vendas. Fonte: Alex Gabriel</h6>
 
 ### Código
 
@@ -27,29 +34,30 @@ A implementação pode ser encontrada na pasta Code/chain-of-responsability do r
 #### Interface do Handler.
 
 ![](../Assets/PadroesProjeto/chainHandler.png)
-
+<h6>Figura 3: Codigo Handler. Fonte: Alex Gabriel</h6>
 
 #### Requisição.
 
 ![](../Assets/PadroesProjeto/chainRequest.png)
+<h6>Figura 4: Codigo Requisição. Fonte: Alex Gabriel</h6>
 
 #### Handler concretos.
 
 ##### Departamento de vendas.
 ![](../Assets/PadroesProjeto/chainVendas.png)
-<h6>Figura X: Codigo dep. vendas. Fonte: Alex Gabriel</h6>
+<h6>Figura 5: Codigo dep. vendas. Fonte: Alex Gabriel</h6>
 
 ##### Departamento de qualidade.
 ![](../Assets/PadroesProjeto/chainQualidade.png)
-<h6>Figura X: Codigo dep. qualidade. Fonte: Alex Gabriel</h6>
+<h6>Figura 6: Codigo dep. qualidade. Fonte: Alex Gabriel</h6>
 
 ##### Departamento de logística.
 ![](../Assets/PadroesProjeto/chainLogista.png)
-<h6>Figura X: Codigo dep. logistica. Fonte: Alex Gabriel</h6>
+<h6>Figura 7: Codigo dep. logistica. Fonte: Alex Gabriel</h6>
 
 ##### Departamento de atendimento ao cliente.
 ![](../Assets/PadroesProjeto/chainAtendimento.png)
-<h6>Figura X: Codigo dep. vendas. Fonte: Alex Gabriel</h6>
+<h6>Figura 8: Codigo dep. vendas. Fonte: Alex Gabriel</h6>
 
 ## Referências
 
