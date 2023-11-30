@@ -1,7 +1,7 @@
-# 3.1 Composite
+# Composite - GoF Estrutural
 
-## Introdução
-De acordo com [1], O Composite é um padrão de projeto estrutural que permite que você componha objetos em estruturas de árvores e então trabalhe com essas estruturas como se elas fossem objetos individuais.
+## 1. Introdução
+De acordo com [1], o Composite é um padrão de projeto estrutural que permite que você componha objetos em estruturas de árvores e então trabalhe com essas estruturas como se elas fossem objetos individuais.
 
 O padrão será aplicado na seleção dos itens que serão escolhidos para entrar no fluxo de devolução/troca.
 
@@ -11,86 +11,60 @@ O padrão será aplicado na seleção dos itens que serão escolhidos para entra
 </div>
 <h6 align = "center">Figura 1: Diagrama UML Composite <br>Fonte: [1] Refactoring Guru</h6>
 
-## Objetivo
+## 2. Objetivo
 
-O objetivo principal de usar o padrão Composite é proporcionar uma experiência mais flexível e eficiente para os usuários, permitindo que eles gerenciem suas devoluções de maneira intuitiva, selecionando produtos individualmente ou agrupando-os conforme necessário. Facilitando assim a manutenção do código, tornando-o mais robusto contra mudanças futuras. Se a lógica de troca ou devolução precisar ser expandida para lidar com novos requisitos, o padrão Composite oferece uma base sólida. O padrão Composite simplifica operações que precisam ser realizadas recursivamente, como calcular o valor total dos produtos a serem trocados ou devolvidos, assim também como a quantidade selecionada dos produtos.
+O objetivo principal de usar o padrão Composite é proporcionar uma experiência mais flexível e eficiente para os usuários, permitindo que eles gerenciem suas devoluções de maneira intuitiva, selecionando produtos individualmente ou agrupando-os conforme necessário. Facilitando assim a manutenção do código, tornando-o mais robusto contra mudanças futuras. Se a lógica de troca ou devolução precisar ser expandida para lidar com novos requisitos, o padrão Composite oferece uma base sólida. Este padrão simplifica operações que precisam ser realizadas recursivamente, como calcular o valor total dos produtos a serem trocados ou devolvidos, assim também como a quantidade selecionada dos produtos.
 
-Em essência, ao aplicar o Composite, resultará em um sistema mais adaptável às mudanças nos requisitos e às evoluções futuras do catálogo de produtos.
+Em essência, ao aplicar o Composite, o resultado será em um sistema mais adaptável às mudanças nos requisitos e às evoluções futuras do catálogo de produtos.
 
-## Implementação
+## 3. Implementação
 A implementação do padrão de projeto foi realizada usando a linguagem Java e criando uma abstração de como funcionaria no sistema da Lojas Americanas. 
 
-### Diagrama UML
-Modelagem utilizando a ferramenta online [lucidchart](https://www.lucidchart.com/pages/)
+### 3.1. Diagrama UML
+Modelagem utilizando a ferramenta online [Lucidchart](https://www.lucidchart.com/pages/).
 
-![](../../Assets/PadroesProjeto/diagrama_composite.png)
+![diagrama](../../Assets/PadroesProjeto/diagrama_Composite.png)
 <h6 align = "center">Figura 2: Codigo seleção de produtos. Fonte: Gabriel Ribeiro</h6>
 
-### Código
+### 3.2. Código
 
-A implementação pode ser encontrada na pasta Code/Composite do repositório do projeto.
+A implementação foi feita utilizando a linguagem Java e pode ser encontrada na pasta Code/Composite na base do repositório do projeto.
 
-### Interface do Produto
+
+### 3.3. Interface do Produto
 
 ![](../../Assets/PadroesProjeto/interface_Composite.png)
-<h6>Figura 3: Codigo Interface. Fonte: Gabriel Ribeiro</h6>
+<h6 align = "center">Figura 3: Codigo Interface. Fonte: Gabriel Ribeiro</h6>
 
-### Composite
+### 3.4. Composite
 
 ![](../../Assets/PadroesProjeto/composite.png)
-<h6>Figura 4: Codigo Composite. Fonte: Gabriel Ribeiro</h6>
+<h6 align = "center">Figura 4: Codigo Composite. Fonte: Gabriel Ribeiro</h6>
 
 
-### Models
+### 3.5. Models
 
 
 ![](../../Assets/PadroesProjeto/caixa_chocolate.png)
-<h6>Figura 5: Codigo leaf caixa_chocolate. Fonte: Gabriel Ribeiro</h6>
+<h6 align = "center">Figura 5: Codigo leaf caixa_chocolate. Fonte: Gabriel Ribeiro</h6>
 
 
 ![](../../Assets/PadroesProjeto/celular.png)
-<h6>Figura 6: Codigo leaf celular. Fonte: Gabriel Ribeiro</h6>
+<h6 align = "center">Figura 6: Codigo leaf celular. Fonte: Gabriel Ribeiro</h6>
 
 
 ![](../../Assets/PadroesProjeto/video_game.png)
-<h6>Figura 7: Codigo leaf video_game. Fonte: Gabriel Ribeiro</h6>
+<h6 align = "center">Figura 7: Codigo leaf video_game. Fonte: Gabriel Ribeiro</h6>
 
-### Main
-#### Para fins didáticos, um exemplo para simular o fluxo.
+### 3.6. Main
+
+Para fins didáticos, foi gerado também um exemplo para simular o fluxo.
+
 ![](../../Assets/PadroesProjeto/exemplo_main.png)
-<h6>Figura 8: Codigo leaf video_game. Fonte: Gabriel Ribeiro</h6>
+<h6 align = "center">Figura 8: Codigo leaf video_game. Fonte: Gabriel Ribeiro</h6>
 
 ![](../../Assets/PadroesProjeto/exemplo_composite.png)
-<h6>Figura 7: Codigo leaf video_game. Fonte: Gabriel Ribeiro</h6>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<h6 align = "center">Figura 9: Codigo leaf video_game. Fonte: Gabriel Ribeiro</h6>
 
 
 
@@ -98,8 +72,10 @@ A implementação pode ser encontrada na pasta Code/Composite do repositório do
 
 > [1] Refactoring Guru. **Chain of Responsibility**. Disponível em: https://refactoring.guru/pt-br/design-patterns/chain-of-responsibility **Acesso em:** 29 nov. 2023.
 
+> **Arquitetura e Desenho de Software - Aula GoFs Estruturais**. Material de apoio em slides. Milene Serrano.
+
 ## Versionamento
 
 | Versão | Alteração |  Responsável  | Revisor | Data de realização | Data de revisão |
 | :------: | :---: | :-----: | :----: | :----: | :-----: |
-| 1.0    | criação do documento, codigo e diagramas | Gabriel Ribeiro | - | 29/11/2023| 30/11/2023 |
+| 1.0    | criação do documento, codigo e diagramas | Gabriel Ribeiro | Matheus Costa | 29/11/2023| 29/11/2023 |
