@@ -40,6 +40,7 @@
 
   - [3. Desenho de Software (Padrões de Projeto)](PadroesDeProjeto/3.PadroesDeProjeto.md)
     - [3.1 Chain of Responsability (Padrões de Projeto)](PadroesDeProjeto/ChainOfResponsibility.md)
+    - [3.2 Composite (Padrões de Projeto)](PadroesDeProjeto/Composite/Composite.md)
     - [Avaliado via Prova]
 
 - **Arquitetura de Software & Reutilização**

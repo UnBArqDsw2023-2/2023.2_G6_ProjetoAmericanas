@@ -23,7 +23,7 @@ A implementação do padrão de projeto foi realizada usando a linguagem Java e 
 ### Diagrama UML
 Modelagem utilizando a ferramenta online [lucidchart](https://www.lucidchart.com/pages/)
 
-![](../Assets/PadroesProjeto/diagrama_composite.png)
+![](../../Assets/PadroesProjeto/diagrama_composite.png)
 <h6 align = "center">Figura 2: Codigo seleção de produtos. Fonte: Gabriel Ribeiro</h6>
 
 ### Código
