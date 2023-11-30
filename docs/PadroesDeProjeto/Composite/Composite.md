@@ -9,7 +9,7 @@ O padrão será aplicado na seleção dos itens que serão escolhidos para entra
 
 ![](../../Assets/PadroesProjeto/diagrama_uml_refactoring_guru.png)  
 </div>
-<h6 align = "center">Figura 1: Diagrama UML Composite <br>Fonte: [1] Refactoring Guru</h6>
+<h6 align = "center">Figura 1: Exemplo de Diagrama UML Composite <br>Fonte: [1] Refactoring Guru</h6>
 
 ## 2. Objetivo
 
