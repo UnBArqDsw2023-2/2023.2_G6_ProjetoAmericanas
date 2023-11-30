@@ -1,11 +1,11 @@
-# Diagrama de estados
+# Diagrama de Estados
 
 ## 1. Definição
 
-O diagrama de estados é um diagrama dinâmico, que descreve o comportamento de um sistema por meio de estados finitos de transição.
+O Diagrama de Estados é um diagrama dinâmico, que descreve o comportamento de um sistema por meio de estados finitos de transição.
 Um objeto muda de estado quando ocorre algum evento interno ou externo ao sistema. Os diagramas de estados também podem ser utilizados para descrever os protocolos de uso de uma determinada parte do sistema.
 
-### Simbolos e componentes utilizados no Diagrama de Atividades (draw.io)
+### Simbolos e componentes utilizados no Diagrama de Estados
 
 |                                                   Símbolo                                                    | Nome                       | Descrição                                                                   |
 | :----------------------------------------------------------------------------------------------------------: | -------------------------- | --------------------------------------------------------------------------- |
@@ -15,7 +15,9 @@ Um objeto muda de estado quando ocorre algum evento interno ou externo ao sistem
 |   ![Condition](../Assets/modelagem/diagramaEstados/condition.png)     | Condição/decisão   | Elemento que representa uma decisão a ser tomada, e é caracterizado por uma entrada que produz duas ou mais saídas, a depender da condição verificada. |  
 
 ## 2. Artefatos
-### 2.1. Diagrama de estados v.1
+
+Os diagramas foram gerados por meio da ferramenta [draw.io](https://app.diagrams.net/).
+### 2.1. Diagrama de Estados v.1
 
 ![Diagrama de estados](../Assets/modelagem/diagramaEstados/diagrama_estados.png)
 <h6 align = "center">Figura 1: Diagrama de Estados</h6>
@@ -23,14 +25,14 @@ Um objeto muda de estado quando ocorre algum evento interno ou externo ao sistem
 No diagrama acima, são apresentados os estados que o sistema passa durante as situações de troca ou devolução de produtos.
 
 
-### 2.2. Diagrama de estados v.2
+### 2.2. Diagrama de Estados v.2
 
 ![Diagrama de estados](../Assets/modelagem/diagramaEstados/diagrama_estados_v2.png)
 <h6 align = "center">Figura 2: Diagrama de Estados - segunda versão</h6>
 
-Com foco na entrega final, e mediante observações feitas pela professora quanto à entrega realizada, a equipe discutiu acerca do diagrama apresentado e propôs uma nova visão quanto à compreensão do fluxo de trocas e devoluções.
+Com foco na entrega final, e mediante observações feitas pela professora quanto à entrega inicial realizada, a equipe discutiu acerca do diagrama apresentado e propôs uma nova visão quanto à compreensão do fluxo de trocas e devoluções.
 
-Com isso, foi gerada uma nova versão do diagrama pelo integrante Matheus Costa, buscando atender às observações apresentadas pela professora, além de trazer mais detalhes do fluxo e maior conformidade com um Diagrama de Estados de fato.
+Com isso, foi gerada uma nova versão do diagrama pelo integrante Matheus Costa (que pode ser vista na Figura 2 acima), buscando atender às observações apresentadas pela professora, além de trazer mais detalhes do fluxo e maior conformidade e coerência com um Diagrama de Estados de fato.
 
 
 ## Referências
