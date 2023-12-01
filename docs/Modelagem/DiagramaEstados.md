@@ -14,13 +14,15 @@ Um objeto muda de estado quando ocorre algum evento interno ou externo ao sistem
 |   ![Estado atual](../Assets/modelagem/diagramaEstados/estado.png)     | Estado atual   | Representa um dos possíveis estados em que o objeto pode se encontrar em cada dado momento. Um estado de um objeto é definido como sendo a identificação de todos os atributos que o compõem;  |  
 |   ![Condition](../Assets/modelagem/diagramaEstados/condition.png)     | Condição/decisão   | Elemento que representa uma decisão a ser tomada, e é caracterizado por uma entrada que produz duas ou mais saídas, a depender da condição verificada. |  
 
+<h6 align = "center">Figura 1: Legenda do diagrama</h6>
+
 ## 2. Artefatos
 
 Os diagramas foram gerados por meio da ferramenta [draw.io](https://app.diagrams.net/).
 ### 2.1. Diagrama de Estados v.1
 
 ![Diagrama de estados](../Assets/modelagem/diagramaEstados/diagrama_estados.png)
-<h6 align = "center">Figura 1: Diagrama de Estados</h6>
+<h6 align = "center">Figura 2: Diagrama de Estados - primeira versão</h6>
 
 No diagrama acima, são apresentados os estados que o sistema passa durante as situações de troca ou devolução de produtos.
 
@@ -28,7 +30,7 @@ No diagrama acima, são apresentados os estados que o sistema passa durante as s
 ### 2.2. Diagrama de Estados v.2
 
 ![Diagrama de estados](../Assets/modelagem/diagramaEstados/diagrama_estados_v2.png)
-<h6 align = "center">Figura 2: Diagrama de Estados - segunda versão</h6>
+<h6 align = "center">Figura 3: Diagrama de Estados - segunda versão</h6>
 
 Com foco na entrega final, e mediante observações feitas pela professora quanto à entrega inicial realizada, a equipe discutiu acerca do diagrama apresentado e propôs uma nova visão quanto à compreensão do fluxo de trocas e devoluções.
 

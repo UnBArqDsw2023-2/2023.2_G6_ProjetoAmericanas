@@ -30,6 +30,9 @@ Com o Mapa de Calor devidamente preenchido, é possível constatar que os dias d
 | 1   | 13/09/2023 | 19:00 | 1h 30 min | Discord | TODOS | Brainstorming; <br> Definição de metodologia de trabalho; <br> Divisão das tarefas |
 | 2   | 25/09/2023 | 14:00 | 60 min | Discord | TODOS | Correções na documentação; <br> Políticas de commits, branches e issues; <br> Atualização do Kanban; <br> Documentação do Backlog e das Sprints |
 | 3   | 26/09/2023 | 20:00 | 60 min | Discord | TODOS | Feedback da 1a entrega; <br> Melhorias na dinâmica da equipe; <br> Divisão das tarefas para a 2a entrega; <br> Participação bilateral dos integrantes; <br> Definição das políticas de trabalho |
+| 4   | 27/11/2023 | 20:00 | 60 min | Discord | TODOS, exceto Guilherme Brito e Pedro Torreão | Discussões sobre as correções e listagem das tarefas a serrem feitas; <br> Distribuição das tarefas; <br> Criação das novas issues |
+| 5   | 29/11/2023 | 20:00 | 40 min | Discord | Guilherme Peixoto, Matheus Costa, Alex Gabriel, Matheus Raphael, Gabriel de Souza | Atualização do andamento das tarefas |
+| 6   | 30/11/2023 | 16:30 | 4h | Discord | TODOS, exceto Guilherme Brito e Pedro Torreão | Atualização do andamento das tarefas (para quem não esteve no dia anterior); <br> Continuação das tarefas para a entrega final |
 
 
 
@@ -40,3 +43,4 @@ Com o Mapa de Calor devidamente preenchido, é possível constatar que os dias d
 |  1.0   | Criando documento | Carlos Eduardo | Matheus Costa | 26/09        |    27/09        |
 |  1.1   | adição da Reunião 3  | Carlos Eduardo | Matheus Costa | 27/09        |     27/09       |
 |  2.0   | Atas em formato de tabela  | Matheus Costa | Bruno Seiji | 27/09 |  28/09 |
+|  2.1   | Atualização das últimas reuniões  | Matheus Costa | Alex Gabriel | 30/11 | 30/11 |

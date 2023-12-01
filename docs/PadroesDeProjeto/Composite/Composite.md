@@ -22,7 +22,9 @@ A problemática que possibilitou a aplicação dos padrões de projeto no fluxo 
 A partir dessa funcionalidade foi elencada a possibilidade da criação de um padrão Composite, dedvido a diversidade de produtos que podem ser escolhidos e as suas quantidades. Foi discutido e implementado também a possibilidade de algumas funções adicionais serem adicionadas em caso de devolução como calcular o valor dos produtos selecionados que será devolvido.
 
 ## 4. Implementação
-A implementação do padrão de projeto foi realizada usando a linguagem Java e criando uma abstração de como funcionaria no sistema da Lojas Americanas. 
+A implementação do padrão de projeto foi realizada usando a linguagem Java e criando uma abstração de como funcionaria no sistema da Lojas Americanas.
+
+A visualização do código da implementação está disponível na pasta [`Code/Composite`](https://github.com/UnBArqDsw2023-2/2023.2_G6_ProjetoAmericanas/tree/dev/Code/Composite) do repositório do projeto.
 
 ### 4.1. Diagrama UML
 Modelagem utilizando a ferramenta online [Lucidchart](https://www.lucidchart.com/pages/).

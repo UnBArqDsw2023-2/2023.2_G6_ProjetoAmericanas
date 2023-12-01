@@ -1,4 +1,4 @@
-# Diagrama de Atividades
+# Diagrama de Sequência
 
 ## 1. Definição
 
