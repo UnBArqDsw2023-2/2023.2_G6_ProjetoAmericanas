@@ -48,4 +48,4 @@ Com isso, foi gerada uma nova versão do diagrama pelo integrante Matheus Costa 
 | :----: | :---------------: | :-----------: | :-----: | :---: | :----:
 |  1.0   | Criação documento e diagrama | Bruno Kishibe | Matheus Costa | 08/10 | 08/10
 |  1.1   | Adição de legendas do diagrama | Bruno Kishibe | Matheus Costa | 28/11 | 29/11
-|  2.0   | Revisão geral e adição de novo diagrama | Matheus Costa | Gabriel Ribeiro | 29/11 | -
+|  2.0   | Revisão geral e adição de novo diagrama | Matheus Costa | Gabriel Ribeiro | 29/11 | 30/11
