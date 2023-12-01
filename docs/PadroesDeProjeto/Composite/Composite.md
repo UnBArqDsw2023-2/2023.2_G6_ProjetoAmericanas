@@ -17,54 +17,58 @@ O objetivo principal de usar o padrão Composite é proporcionar uma experiênci
 
 Em essência, ao aplicar o Composite, o resultado será em um sistema mais adaptável às mudanças nos requisitos e às evoluções futuras do catálogo de produtos.
 
-## 3. Implementação
+## 3. Problemática e solução
+A problemática que possibilitou a aplicação dos padrões de projeto no fluxo de devolução/troca da Americanas foi a funcionalidade de seleção dos produtos, ativada logo após a solicitação da troca ou devolução. 
+A partir dessa funcionalidade foi elencada a possibilidade da criação de um padrão Composite, dedvido a diversidade de produtos que podem ser escolhidos e as suas quantidades. Foi discutido e implementado também a possibilidade de algumas funções adicionais serem adicionadas em caso de devolução como calcular o valor dos produtos selecionados que será devolvido.
+
+## 4. Implementação
 A implementação do padrão de projeto foi realizada usando a linguagem Java e criando uma abstração de como funcionaria no sistema da Lojas Americanas. 
 
-### 3.1. Diagrama UML
+### 4.1. Diagrama UML
 Modelagem utilizando a ferramenta online [Lucidchart](https://www.lucidchart.com/pages/).
 
-![diagrama](../../Assets/PadroesProjeto/diagrama_Composite.png)
+![diagrama](../../Assets/PadroesProjeto/Composite/diagrama_Composite.png)
 <h6 align = "center">Figura 2: Codigo seleção de produtos. Fonte: Gabriel Ribeiro</h6>
 
-### 3.2. Código
+### 4.2. Código
 
 A implementação foi feita utilizando a linguagem Java e pode ser encontrada na pasta Code/Composite na base do repositório do projeto.
 
 
-### 3.3. Interface do Produto
+### 4.3. Interface do Produto
 
-![](../../Assets/PadroesProjeto/interface_Composite.png)
+![](../../Assets/PadroesProjeto/Composite/interface_Composite.jpg)
 <h6 align = "center">Figura 3: Codigo Interface. Fonte: Gabriel Ribeiro</h6>
 
-### 3.4. Composite
+### 4.4. Composite
 
-![](../../Assets/PadroesProjeto/composite.png)
+![](../../Assets/PadroesProjeto/Composite/Composite.jpg)
 <h6 align = "center">Figura 4: Codigo Composite. Fonte: Gabriel Ribeiro</h6>
 
 
-### 3.5. Models
+### 4.5. Models
 
 
-![](../../Assets/PadroesProjeto/caixa_chocolate.png)
+![](../../Assets/PadroesProjeto/Composite/caixa_chocolate.jpg)
 <h6 align = "center">Figura 5: Codigo leaf caixa_chocolate. Fonte: Gabriel Ribeiro</h6>
 
 
-![](../../Assets/PadroesProjeto/celular.png)
+![](../../Assets/PadroesProjeto/Composite/celular.jpg)
 <h6 align = "center">Figura 6: Codigo leaf celular. Fonte: Gabriel Ribeiro</h6>
 
 
-![](../../Assets/PadroesProjeto/video_game.png)
+![](../../Assets/PadroesProjeto/Composite/video_game.jpg)
 <h6 align = "center">Figura 7: Codigo leaf video_game. Fonte: Gabriel Ribeiro</h6>
 
-### 3.6. Main
+### 4.6. Main
 
 Para fins didáticos, foi gerado também um exemplo para simular o fluxo.
 
-![](../../Assets/PadroesProjeto/exemplo_main.png)
-<h6 align = "center">Figura 8: Codigo leaf video_game. Fonte: Gabriel Ribeiro</h6>
+![](../../Assets/PadroesProjeto/Composite/MainTeste.jpg)
+<h6 align = "center">Figura 8: Codigo Main. Fonte: Gabriel Ribeiro</h6>
 
-![](../../Assets/PadroesProjeto/exemplo_composite.png)
-<h6 align = "center">Figura 9: Codigo leaf video_game. Fonte: Gabriel Ribeiro</h6>
+![](../../Assets/PadroesProjeto/Composite/exemplo_main.jpg)
+<h6 align = "center">Figura 9: Codigo Main. Fonte: Gabriel Ribeiro</h6>
 
 
 
@@ -79,3 +83,4 @@ Para fins didáticos, foi gerado também um exemplo para simular o fluxo.
 | Versão | Alteração |  Responsável  | Revisor | Data de realização | Data de revisão |
 | :------: | :---: | :-----: | :----: | :----: | :-----: |
 | 1.0    | criação do documento, codigo e diagramas | Gabriel Ribeiro | Matheus Costa | 29/11/2023| 29/11/2023 |
+| 2.0    | aplicando algumas alterações | Gabriel Ribeiro | Matheus Costa | 30/11/2023| 30/11/2023 |
