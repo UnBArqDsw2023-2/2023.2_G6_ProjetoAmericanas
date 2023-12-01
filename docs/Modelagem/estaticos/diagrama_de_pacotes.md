@@ -66,4 +66,4 @@ Após considerações feitas pela professora, foi gerado um novo diagrama.
 | ------ | ---------------------------------- | ------------- | --------------- | ------------------ | --------------- |
 | 1.0    | Criação do documento               | Carlos Rafael | Matheus Raphael | 07/10              | 08/10           |
 | 2.0    | Adição de novo diagrama - versão 2 | Carlos Rafael | Matheus Costa   | 09/10              | 09/10           |
-| 3.0    | Adição de novo diagrama - versão 3 | Carlos Rafael | -               | 30/11              | -               |
+| 3.0    | Adição de novo diagrama - versão 3 | Carlos Rafael | Bruno Seiji     | 30/11              | 01/12           |
