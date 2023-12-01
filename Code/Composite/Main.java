@@ -12,8 +12,10 @@ public class Main {
         produtos.add(videoGame);
         produtos.add(celular);
         produtos.count();
+        produtos.sumPrice();
         System.out.println("-------------------removing-------------------");
         produtos.remove(videoGame);
         produtos.count();
+        produtos.sumPrice();
     }
 }

@@ -1,5 +1,3 @@
-# Diagrama de Classes
-
 ## 1. Introdução
 
 UML é a sigla para "Unified Modeling Language" ou "Linguagem de Modelagem Unificada". Trata-se de uma linguagem de modelagem visual que permite representar e comunicar a estrutura, o comportamento e a interação de sistemas complexos de software. Ela foi criada por algumas empresas de software na década de 1990, liderado por Grady Booch, James Rumbaugh e Ivar Jacobson, e é amplamente utilizada em todo o mundo para o desenvolvimento de software.
@@ -30,7 +28,7 @@ Ambas versões do diagrama poderão ser vistas logo a seguir.
 No processo de criação do nosso diagrama de classes, iniciamos identificando as classes potenciais envolvidas no fluxo de troca e devolução. A seguir, utilizamos a ferramenta Lucidchart para desenhar essas classes, especificando seus atributos e estabelecendo os relacionamentos entre elas. 
 
 ### 4.1. Legenda
-Por padrão utilizamos os seguintes elementos em nosso diagrama:
+Por padrão utilizamos alguns dos seguintes elementos em nosso diagrama:
 
 ![legenda do diagrama](../Assets/legenda_diagrama_de_classes.png)
 <h6 align = "center">Figura 1: Legenda</h6>
