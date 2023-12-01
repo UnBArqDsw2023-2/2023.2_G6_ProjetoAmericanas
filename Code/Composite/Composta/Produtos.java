@@ -19,4 +19,10 @@ public class Produtos implements Produto {
             produto.count();
         }
     }
+    @Override
+    public void sumPrice() {
+        for (Produto produto : produtos) {
+            produto.sumPrice();
+        }
+    }
 }
