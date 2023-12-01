@@ -36,6 +36,8 @@
         - [Diagrama de Estados](Modelagem/DiagramaEstados.md)
     - [2.2. Participações - Modelagem](Modelagem/2.2.ParticipacoesModelagem.md)
 
+- **Arquitetura & Reutilização de  Software**
+   - [4.1.1 Documento de Arquitetura de Software](/docs/ArquiteturaReutilizacao/4.1.1.DAS.md)
 <!--
 - **Padrões de Projeto**
 
