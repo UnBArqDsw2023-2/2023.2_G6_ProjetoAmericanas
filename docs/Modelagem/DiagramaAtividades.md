@@ -65,4 +65,4 @@ O diagrama delineia o fluxo de atividades relacionado à troca ou devolução de
 | Versão | Alteração            | Responsável    | Revisor | Data de realização | Data de revisão |
 | ------ | -------------------- | -------------- | ------- | ------------------ | --------------- |
 | 1.0    | Criação do documento | Carlos Eduardo | Matheus Costa  | 28/09     | 09/10           |
-|2.0     | Recriação do diagrama| Carlos Eduardo, Bruno Seiji, Matheus Costa | - | 28/11 | - |
+|2.0     | Recriação do diagrama| Carlos Eduardo, Bruno Seiji, Matheus Costa | Gabriel Ribeiro | 28/11 | 01/12/2023 |
