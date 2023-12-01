@@ -2,12 +2,10 @@ import listener.RequestObservable;
 import listener.UserObserver;
 
 public class Main {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws Exception {
 
         UserObserver user = new UserObserver("Carlos");
-        RequestObservable request = new RequestObservable();
-
-        request.addObserver(user);
+        RequestObservable request = new RequestObservable(user);
 
         request.setStatus("OrderReceived");
         request.setStatus("PaymentApproved");

@@ -9,41 +9,36 @@ import java.util.Map;
 
 public class RequestObservable {
     private String status;
-    private Map<String, Handler> statusHandlers = new HashMap<>();
-    private List<UserObserver> observers = new ArrayList<>();
+    private Map<String, Handler> listenerHandlers = new HashMap<>();
+    private UserObserver observer;
 
-    public RequestObservable() {
-        statusHandlers.put("OrderReceived", new OrderReceivedHandler());
-        statusHandlers.put("PaymentApproved", new PaymentApprovedHandler());
-        statusHandlers.put("NoteAvailable", new NoteAvailableHandler());
-        statusHandlers.put("Transport", new TransportHandler());
-        statusHandlers.put("Delivered", new DeliveredHandler());
+    /**
+     * RequestObservable constructor only can create if exists user
+     * @param observer
+     */
+    public RequestObservable(UserObserver observer) throws Exception {
+        if(observer == null) throw new Exception("Missing user");
+
+        this.observer = observer;
+        this.setupListenerHandlers();
     }
 
-    public String getStatus() {
-        return status;
+    public void setupListenerHandlers() {
+        listenerHandlers.put("OrderReceived", new OrderReceivedHandler());
+        listenerHandlers.put("PaymentApproved", new PaymentApprovedHandler());
+        listenerHandlers.put("NoteAvailable", new NoteAvailableHandler());
+        listenerHandlers.put("Transport", new TransportHandler());
+        listenerHandlers.put("Delivered", new DeliveredHandler());
     }
-
     public void setStatus(String novoStatus) {
-        if (statusHandlers.containsKey(novoStatus)) {
+        if (listenerHandlers.containsKey(novoStatus)) {
             this.status = novoStatus;
-            notifyObservers();
-
-            statusHandlers.get(novoStatus).execute();
+            listenerHandlers.get(novoStatus).execute();
+            notifyObserver();
         }
     }
 
-    public void addObserver(UserObserver observer) {
-        observers.add(observer);
-    }
-
-    public void removeObserver(UserObserver observer) {
-        observers.remove(observer);
-    }
-
-    private void notifyObservers() {
-        for (UserObserver observer : observers) {
-            observer.update(status);
-        }
+    private void notifyObserver() {
+        observer.update(status);
     }
 }
