@@ -39,4 +39,5 @@ Após feedback da professora, foi gerado uma nova versão do diagrama, porém fo
 | :------: | :---: | :-----: | :----: | :----: | :-----: |
 | 1.0    | criação do diagrama de componentes| Gabriel de Souza | Matheus Costa | 04/10/2023| 09/10/2023 |
 | 2.0    | correções e novo diagrama de componentes| Gabriel de Souza | Matheus Costa | 09/10/2023| 09/10/2023 |
+| 3.0    | correções do diagrama e migração do lucid chart pro draw.io| Guilherme Lima | Matheus Raphael | 29/11/2023| 01/12/2023 |
 
