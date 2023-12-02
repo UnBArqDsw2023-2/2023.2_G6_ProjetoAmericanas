@@ -107,4 +107,4 @@ Modelagem utilizando a ferramenta [lucidapp](https://lucid.app/)
 | Versão | Alteração |  Responsável  | Revisor | Data de realização | Data de revisão |
 | :------: | :---: | :-----: | :----: | :----: | :-----: |
 | 1.0    | Criação do documento e diagrama/código reembolso | Guilherme Lima | Bruno Seiji | 01/12/2023| 01/12/2023 |
-| 1.1    | Criação diagrama e código devolução              | Bruno Seiji    |             | 01/12/2023| 01/12/2023 |
+| 1.1    | Criação diagrama e código devolução              | Bruno Seiji    |  Gabriel Ribeiro           | 01/12/2023| 01/12/2023 |

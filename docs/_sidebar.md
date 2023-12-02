@@ -41,6 +41,8 @@
   - [3. Desenho de Software (Padrões de Projeto)](PadroesDeProjeto/3.PadroesDeProjeto.md)
     - [3.1 Chain of Responsability (Padrões de Projeto)](PadroesDeProjeto/ChainOfResponsibility.md)
     - [3.2 Composite (Padrões de Projeto)](PadroesDeProjeto/Composite/Composite.md)
+    - [3.3 Observer (Padrões de Projeto)](PadroesDeProjeto/Observer.md)
+    - [3.4 Strategy (Padrões de Projeto)](PadroesDeProjeto/Strategy/Strategy.md)
 
 - **Arquitetura de Software & Reutilização - Entrega Final**
   - [4. Desenho de Software (Arquitetura & Reutilização de Software)](ArquiteturaReutilizacao/4.ArquiteturaReutilizacao.md)
@@ -49,4 +51,3 @@
     - [4.2. Módulo Reutilização de Software](ArquiteturaReutilizacao/4.2.ReutilizacaoDeSoftware.md)
       - [4.2.1 Módulo de Reutilização de Software](/ArquiteturaReutilizacao/4.2.1Reutilizacao.md)
     - [4.3. Participações - Arquitetura & Reutilização de Software](ArquiteturaReutilizacao/4.3.ParticipacoesArqReutilizacao.md)
-
