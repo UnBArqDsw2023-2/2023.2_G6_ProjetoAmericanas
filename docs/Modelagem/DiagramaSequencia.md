@@ -37,6 +37,8 @@ Nesta versão, foi alterada a americanas para controller e correios para third p
 
 ### 1.3. Artefatos Entrega Final
 
+![Diagrama de Sequencia](../Assets/sequenciaRevised.png)
+<h6 alighn="center">Figura3: Diagrama de sequência atualizado - Todos os Fluxos</h6>
 
 ## Referências
 
