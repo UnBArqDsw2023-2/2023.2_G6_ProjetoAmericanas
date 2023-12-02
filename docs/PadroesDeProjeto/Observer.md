@@ -69,4 +69,4 @@ O código fonte está disponivel no diretório: [Aqui](../../Code/Observer/Main.
 
 | Versão |                Alteração                 |  Responsável  | Revisor | Data de realização | Data de revisão |
 | :----: | :--------------------------------------: | :-----------: | :-----: | :----------------: | :-------------: |
-|  1.0   | criação do documento, codigo e diagramas | Carlos Rafael |    -    |     01/11/2023     |   01/11/2023    |
+|  1.0   | criação do documento, codigo e diagramas | Carlos Rafael |    Gabriel Ribeiro    |     01/11/2023     |   01/11/2023    |
