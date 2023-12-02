@@ -22,7 +22,7 @@ O diagrama representa o fluxo de interações entre os objetos do sistema e suas
 ### 1.2. Artefatos Entrega Final
 
 ![Diagrama de Sequencia](../Assets/CommunicationsRevised.png)
-<h6 align= "center">Figura3: Diagrama de Comunicação atualizado - Fluxos de devolução de produto por postagem & troca de produto por busca em domicílio</h6>
+<h6 align= "center">Figura 3: Diagrama de Comunicação atualizado - Fluxos de devolução de produto por postagem & troca de produto por busca em domicílio</h6>
 
 ## Referências
 
@@ -39,4 +39,4 @@ O diagrama representa o fluxo de interações entre os objetos do sistema e suas
 | Versão | Alteração            | Responsável    | Revisor | Data de realização | Data de revisão |
 | ------ | -------------------- | -------------- | ------- | ------------------ | --------------- |
 | 1.0    | Criação do documento | Matheus Raphael |   Matheus Costa      | 08/10/2023 |   09/10     |
-| 2.0 | Atualização do documento | Matheus Raphael | | 30/11/2023 | 01/12/2023 |
+| 2.0 | Atualização do documento | Matheus Raphael | Carlos Rafael | 30/11/2023 | 01/12/2023 |
