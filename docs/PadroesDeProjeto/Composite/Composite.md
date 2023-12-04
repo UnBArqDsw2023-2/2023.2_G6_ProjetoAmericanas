@@ -76,7 +76,7 @@ Para fins didáticos, foi gerado também um exemplo para simular o fluxo.
 
 ## Referências
 
-> [1] Refactoring Guru. **Chain of Responsibility**. Disponível em: https://refactoring.guru/pt-br/design-patterns/chain-of-responsibility **Acesso em:** 29 nov. 2023.
+> [1] Refactoring Guru. **Chain of Responsibility**. Disponível em: https://refactoring.guru/pt-br/design-patterns/composite **Acesso em:** 29 nov. 2023.
 
 > **Arquitetura e Desenho de Software - Aula GoFs Estruturais**. Material de apoio em slides. Milene Serrano.
 
