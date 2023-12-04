@@ -15,6 +15,9 @@ O objetivo principal do strategy é permitir a utilização de diferentes varian
 bem como a generalização de classes muito parecida que diferem apenas na forma como elas executam um comportamento expecifico.
 Este padrão de projeto também permite o isolamento do código melhorando consequentemente a organização, modularização, compreeção e capacidade de futuras expançoes e alterações caso seja necessário, por exemplo a criação de um novo método de devolução de pagamento.  
 
+## Implementações
+Todas as implementações de código deste padrão de projeto podem ser vistas nas pastas [`Code/Strategy`](https://github.com/UnBArqDsw2023-2/2023.2_G6_ProjetoAmericanas/tree/main/Code/Strategy) e [`Code/StrategyReturn`](https://github.com/UnBArqDsw2023-2/2023.2_G6_ProjetoAmericanas/tree/main/Code/StrategyReturn) do repositório do projeto.
+***
 
 ## Implementação Reembolso
 A implementação do padrão de projeto foi realizada usando a linguagem Java e criando uma abstração de como funcionaria no sistema da Lojas Americanas.
@@ -108,3 +111,4 @@ Modelagem utilizando a ferramenta [lucidapp](https://lucid.app/)
 | :------: | :---: | :-----: | :----: | :----: | :-----: |
 | 1.0    | Criação do documento e diagrama/código reembolso | Guilherme Lima | Bruno Seiji | 01/12/2023| 01/12/2023 |
 | 1.1    | Criação diagrama e código devolução              | Bruno Seiji    |  Gabriel Ribeiro           | 01/12/2023| 01/12/2023 |
+|  1.2   | Adição de link para a pasta de código no repositório | Matheus Costa | Bruno Seiji   |     04/12/2023     |   04/12/2023    |

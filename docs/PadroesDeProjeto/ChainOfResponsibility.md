@@ -28,7 +28,7 @@ Modelagem utilizando a ferramenta online [Lucidchart](https://www.lucidchart.com
 
 ### 3.2. Código
 
-A visualização do código da implementação está disponível na pasta [`Code/chain-of-responsability`](https://github.com/UnBArqDsw2023-2/2023.2_G6_ProjetoAmericanas/tree/dev/Code/chain-of-responsibility) do repositório do projeto.
+A visualização do código da implementação está disponível na pasta [`Code/chain-of-responsability`](https://github.com/UnBArqDsw2023-2/2023.2_G6_ProjetoAmericanas/tree/main/Code/chain-of-responsibility) do repositório do projeto.
 
 #### 3.2.1 Interface do Handler.
 

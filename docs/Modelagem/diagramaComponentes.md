@@ -13,18 +13,19 @@ Os diagramas de componentes tem como objetivo mostrar a estrutura do sistema de 
 |   ![Estado Final](../Assets/modelagem/diagramaComponentes/uml-node-symbol.png)     | Nó   | Representa objetos de hardware ou software, que estão em um nível superior ao dos componentes  |  
 |   ![Estado atual](../Assets/modelagem/diagramaComponentes/uml-port-symbol.png)     | Porta   | Especifica um ponto de interação separado entre o componente e o ambiente. As portas são simbolizadas por um pequeno quadrado.  |  
 |   ![Condition](../Assets/modelagem/diagramaComponentes/uml-dependency-symbol.png)     | Dependência   | Mostra que uma parte do  sistema depende de outra. Dependências são representadas por linhas tracejadas que conectam um componente (ou elemento) a outro |  
+<h6 align = "center">Tabela 1: Legenda dos elementos do diagrama</h6>
 
 
-## 3. Artefato anterior
-Após feedback da professora, foi gerado uma nova versão do diagrama, porém foi encontrado um impedimento devido a limitação da ferramenta Lucid Chart para criação do diagrama. Fica o adendo para a falta de algumas portas e interfaces no diagrama.
+## 2. Diagrama de componentes
+Esta foi a versão inicial do diagrama, mas após feedback da professora, foi gerado uma [nova versão](#_3-artefato-atualizado), porém foi encontrado um impedimento devido a limitação da ferramenta Lucid Chart para criação do diagrama e por isso foi utilizado o draw.io para a nova versão. Fica o adendo para a falta de algumas portas e interfaces no diagrama inicial.
 
 ![Diagrama Componentes](../Assets/diagrama-componentes-2.png)
+<h6 align = "center">Figura 1: Diagrama de Componentes Gabriel de Souza e Guilherme Lima</h6>
 
-## 2. Artefato Atualizado
+
+## 3. Artefato Atualizado
 
 ![Diagrama Componentes](../Assets/modelagem/diagramaComponentes/Diagrama%20de%20componentes.png)
-
-<h6 align = "center">Figura 1: Diagrama de Componentes Gabriel de Souza e Guilherme Lima</h6>
 
 <h6 align = "center">Figura 2: Nova versão Diagrama de Componentes</h6>
 
@@ -39,5 +40,5 @@ Após feedback da professora, foi gerado uma nova versão do diagrama, porém fo
 | :------: | :---: | :-----: | :----: | :----: | :-----: |
 | 1.0    | criação do diagrama de componentes| Gabriel de Souza | Matheus Costa | 04/10/2023| 09/10/2023 |
 | 2.0    | correções e novo diagrama de componentes| Gabriel de Souza | Matheus Costa | 09/10/2023| 09/10/2023 |
-| 3.0    | correções do diagrama e migração do lucid chart pro draw.io| Guilherme Lima | Matheus Raphael | 29/11/2023| 01/12/2023 |
+| 3.0    | adição do Diagrama Atualizado e migração do Lucidchart para o draw.io| Guilherme Lima | Matheus Raphael | 29/11/2023| 01/12/2023 |
 

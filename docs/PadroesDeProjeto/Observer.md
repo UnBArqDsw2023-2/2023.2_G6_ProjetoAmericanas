@@ -20,6 +20,8 @@ O padrão de projeto Observer atua como uma estrutura de notificação que, em r
 
 A implementação do padrão de projeto foi realizada usando a **linguagem Java** e criando uma abstração de como funcionaria no contexto de status do pedido após devolução ou troca no sistema da **Lojas Americanas**.
 
+A implementação pode ser vista na pasta [`Code/Observer`](https://github.com/UnBArqDsw2023-2/2023.2_G6_ProjetoAmericanas/tree/main/Code/Observer) do repositório do projeto.
+
 ### 3.1. Diagrama UML
 
 Modelagem utilizando a ferramenta online [Lucidchart](https://www.lucidchart.com/pages/).
@@ -69,4 +71,5 @@ O código fonte está disponivel no diretório: [Aqui](../../Code/Observer/Main.
 
 | Versão |                Alteração                 |  Responsável  | Revisor | Data de realização | Data de revisão |
 | :----: | :--------------------------------------: | :-----------: | :-----: | :----------------: | :-------------: |
-|  1.0   | criação do documento, codigo e diagramas | Carlos Rafael |    Gabriel Ribeiro    |     01/11/2023     |   01/11/2023    |
+|  1.0   | criação do documento, codigo e diagramas | Carlos Rafael |    Gabriel Ribeiro    |     01/12/2023     |   01/11/2023    |
+|  1.1   | Adição de link para a pasta de código no repositório | Matheus Costa | Carlos Rafael   |     04/12/2023     |   04/12/2023    |

@@ -18,7 +18,7 @@ Os componentes envolvidos nesse diagrama estão a seguir.
 |   ![Condition](../Assets/modelagem/diagramaSequencia/uml-lifeline-symbol.png)     | Linhade vida   | Esta linha vertical tracejada mostra os eventos sequenciais que ocorrem a um objeto durante o processo no gráfico. | 
 |   ![Condition](../Assets/modelagem/diagramaSequencia/uml-option-loop-symbol.png)     | Opção em loop   | Usado para modelar cenários “se/então”, ou seja, uma circunstância que ocorrerá apenas sob determinadas condições. |  
 |   ![Condition](../Assets/modelagem/diagramaSequencia/uml-alternative-symbol.png)     | Símbolo alternativo  | Simboliza uma escolha (geralmente mutuamente exclusiva) entre duas ou mais sequências de mensagens.  |  
-
+<h6 align = "center">Tabela 1: Legenda dos elementos do diagrama</h6>
 
 
 ### 1.1. Artefatos
@@ -38,7 +38,7 @@ Nesta versão, foi alterada a americanas para controller e correios para third p
 ### 1.3. Artefatos Entrega Final
 
 ![Diagrama de Sequencia](../Assets/sequenciaRevised.png)
-<h6 align= "center">Figura3: Diagrama de sequência atualizado - Todos os Fluxos</h6>
+<h6 align= "center">Figura 3: Diagrama de sequência atualizado - Todos os Fluxos</h6>
 
 ## Referências
 

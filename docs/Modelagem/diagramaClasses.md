@@ -49,6 +49,11 @@ Por padrão utilizamos alguns dos seguintes elementos em nosso diagrama:
 
 <h6 align = "center">Figura 3: Diagrama de classes - versão Carlos Rafael</h6>
 
+### 5.3. Versão 3
+![Diagrama de Classes](../Assets/complete_diagram.png)
+
+<h6 align = "center">Figura 4: Diagrama de classes - versão final</h6>
+
 ## Referências
 
 > LUCIDCHART. **O que é um diagrama de classe UML?**. Disponível em: https://www.lucidchart.com/pages/pt/o-que-e-diagrama-de-classe-uml **Acesso em:** 04 out. 2023.
